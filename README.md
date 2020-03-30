@@ -20,7 +20,13 @@ To report, analyse, visualize, and aquire knowledge of the current Corona Virus 
   
 
 [World Map - Time series](https://imgur.com/gwkEDRz) 
-![World Map, 28-03-2020](https://i.imgur.com/ha2zmcF.png)   
-  
+![World Map, 29-03-2020](https://i.imgur.com/rJHpjFG.png)   
+
 [Confirmed Cases - Time series](https://imgur.com/UFYg1xm)
-![Confirmed Cases, 28-03-2020](https://i.imgur.com/I2nUrfn.png)
+![Confirmed Cases, 29-03-2020](https://i.imgur.com/i9WJAXG.png)
+
+Total confirmed cases after 500 cases, Most affected countries:
+![Confirmed Cases](https://i.imgur.com/wFQ2Fqh.png)
+
+Total confirmed cases after 500 cases, Most affected countries (Europe):
+![Confirmed Cases](https://i.imgur.com/EpUZdBf.png)
