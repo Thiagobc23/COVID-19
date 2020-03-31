@@ -14,6 +14,7 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 ## Most Affected  
 Total confirmed cases after 500 cases, Most affected countries:
 ![Confirmed Cases](https://i.imgur.com/6pLU9XN.png)  
+![Mortality](https://i.imgur.com/2HPD7F0.png)  
   
 The most affected countries so far are China, the U.S., and Italy.
 
@@ -33,14 +34,70 @@ The most affected countries so far are Italy, Spain, and Germany.
 
 Total confirmed cases after 500 cases, Most affected countries (Europe):
 ![Confirmed Cases](https://i.imgur.com/QqUXgdN.png)
+![Mortality](https://i.imgur.com/BA3lFrQ.png)
   
 ## Personal Selection
 Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to properly deal with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment of what happens when you simply let the virus spread, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
   
 ![Confirmed Cases](https://i.imgur.com/feudFqg.png)  
+![Mortality](https://i.imgur.com/cOEVaCY.png)
   
 _____
+  
+## Regressions
 
+Those regressions are based on the work compiled by [Xingyu Bian](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction).  
+  
+It's important to make a few notes about regressions and predictions at this time, those numbers are for illustration and research only and should never replace any kind of medical or governmental information you may receive. It's also important to note that the veracity of the analyzed data is questionable so predictions may have a huge distortion when compared to reality.
+  
+SVM - Support Vector Machine Regressor:  
+![Pol_Bay_Rid](https://i.imgur.com/nYgCetY.png)
+  
+    SVM future predictions:
+    {('03/31/2020', 924726.0),
+    ('04/01/2020', 1029141.0),
+    ('04/02/2020', 1144536.0),
+    ('04/03/2020', 1271888.0),
+    ('04/04/2020', 1412241.0),
+    ('04/05/2020', 1566718.0),
+    ('04/06/2020', 1736520.0),
+    ('04/07/2020', 1922933.0),
+    ('04/08/2020', 2127328.0),
+    ('04/09/2020', 2351175.0)}
+
+
+Polynomial Regression:  
+![Pol_Bay_Rid](https://i.imgur.com/6X9RRpu.png)
+  
+    Polynomial regression future predictions:
+    {('03/31/2020', 915255.0),
+    ('04/01/2020', 1019526.0),
+    ('04/02/2020', 1134327.0),
+    ('04/03/2020', 1260472.0),
+    ('04/04/2020', 1398822.0),
+    ('04/05/2020', 1550285.0),
+    ('04/06/2020', 1715818.0),
+    ('04/07/2020', 1896429.0),
+    ('04/08/2020', 2093180.0),
+    ('04/09/2020', 2307185.0)}
+
+Polynomial Baysian Ridge Regression:  
+![Pol_Bay_Rid](https://i.imgur.com/7UpvOMN.png)  
+
+    Ridge regression future predictions:
+    {('03/31/2020', 1065417.0),
+    ('04/01/2020', 1212846.0),
+    ('04/02/2020', 1378420.0),
+    ('04/03/2020', 1563810.0),
+    ('04/04/2020', 1770794.0),
+    ('04/05/2020', 2001260.0),
+    ('04/06/2020', 2257211.0),
+    ('04/07/2020', 2540771.0),
+    ('04/08/2020', 2854184.0),
+    ('04/09/2020', 3199824.0)}
+
+_____
+  
 ## Patients Info (Based on a sample of [South Korea Cases](https://www.kaggle.com/kimjihoo/coronavirusdataset))  
   
 Age Distribution - All Patients  
