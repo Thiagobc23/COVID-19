@@ -5,16 +5,16 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 # Visualizations  
   
 
-[World Map - Time series/ Animated](https://imgur.com/D84sAIW)  
-![World Map, 29-03-2020](https://i.imgur.com/yljrj3I.png)   
+[World Map - Time series/ Animated](https://imgur.com/aom2R1j)  
+![World Map, 31-03-2020](https://i.imgur.com/tM2cN2h.png)   
   
-[Confirmed Cases - Time series/ Animated](https://imgur.com/dMICVHf)
-![Confirmed Cases, 29-03-2020](https://i.imgur.com/plMepYh.png)
+[Confirmed Cases - Time series/ Animated](https://imgur.com/eCGfx3w)
+![Confirmed Cases, 31-03-2020](https://i.imgur.com/fjzXLAA.png)
   
 ## Most Affected  
 Total confirmed cases after 500 cases, Most affected countries:
-![Confirmed Cases](https://i.imgur.com/6pLU9XN.png)  
-![Mortality](https://i.imgur.com/2HPD7F0.png)  
+![Confirmed Cases](https://i.imgur.com/DnoMq7e.png)  
+![Mortality](https://i.imgur.com/NwiL5TF.png)  
   
 The most affected countries so far are China, the U.S., and Italy.
 
@@ -33,14 +33,14 @@ The most affected countries so far are China, the U.S., and Italy.
 The most affected countries so far are Italy, Spain, and Germany.
 
 Total confirmed cases after 500 cases, Most affected countries (Europe):
-![Confirmed Cases](https://i.imgur.com/QqUXgdN.png)
-![Mortality](https://i.imgur.com/BA3lFrQ.png)
+![Confirmed Cases](https://i.imgur.com/z7FJF28.png)
+![Mortality](https://i.imgur.com/P0evP06.png)
   
 ## Personal Selection
 Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to properly deal with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment of what happens when you simply let the virus spread, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
   
-![Confirmed Cases](https://i.imgur.com/feudFqg.png)  
-![Mortality](https://i.imgur.com/cOEVaCY.png)
+![Confirmed Cases](https://i.imgur.com/q94HRy4.png)  
+![Mortality](https://i.imgur.com/4nMaz7P.png)
   
 _____
   
@@ -51,50 +51,51 @@ Those regressions are based on the work compiled by [Xingyu Bian](https://www.ka
 It's important to make a few notes about regressions and predictions at this time, those numbers are for illustration and research only and should never replace any kind of medical or governmental information you may receive. It's also important to note that the veracity of the analyzed data is questionable so predictions may have a huge distortion when compared to reality.
   
 SVM - Support Vector Machine Regressor:  
-![Pol_Bay_Rid](https://i.imgur.com/nYgCetY.png)
+![svm](https://i.imgur.com/qDUGJhO.png)
   
     SVM future predictions:
-    {('03/31/2020', 924726.0),
-    ('04/01/2020', 1029141.0),
-    ('04/02/2020', 1144536.0),
-    ('04/03/2020', 1271888.0),
-    ('04/04/2020', 1412241.0),
-    ('04/05/2020', 1566718.0),
-    ('04/06/2020', 1736520.0),
-    ('04/07/2020', 1922933.0),
-    ('04/08/2020', 2127328.0),
-    ('04/09/2020', 2351175.0)}
+    {('04/01/2020', 969732.0),
+    ('04/02/2020', 1077730.0),
+    ('04/03/2020', 1196916.0),
+    ('04/04/2020', 1328271.0),
+    ('04/05/2020', 1472844.0),
+    ('04/06/2020', 1631759.0),
+    ('04/07/2020', 1806220.0),
+    ('04/08/2020', 1997512.0),
+    ('04/09/2020', 2207007.0),
+    ('04/10/2020', 2436171.0)}
 
 
 Polynomial Regression:  
-![Pol_Bay_Rid](https://i.imgur.com/6X9RRpu.png)
+![Pol_reg](https://i.imgur.com/8hsCz8r.png)
   
     Polynomial regression future predictions:
-    {('03/31/2020', 915255.0),
-    ('04/01/2020', 1019526.0),
-    ('04/02/2020', 1134327.0),
-    ('04/03/2020', 1260472.0),
-    ('04/04/2020', 1398822.0),
-    ('04/05/2020', 1550285.0),
-    ('04/06/2020', 1715818.0),
-    ('04/07/2020', 1896429.0),
-    ('04/08/2020', 2093180.0),
-    ('04/09/2020', 2307185.0)}
+    {('04/01/2020', 1029636.0),
+    ('04/02/2020', 1146995.0),
+    ('04/03/2020', 1276148.0),
+    ('04/04/2020', 1418012.0),
+    ('04/05/2020', 1573553.0),
+    ('04/06/2020', 1743795.0),
+    ('04/07/2020', 1929815.0),
+    ('04/08/2020', 2132748.0),
+    ('04/09/2020', 2353791.0),
+    ('04/10/2020', 2594202.0)}
 
 Polynomial Baysian Ridge Regression:  
-![Pol_Bay_Rid](https://i.imgur.com/7UpvOMN.png)  
-
+![Pol_Bay_Rid](https://i.imgur.com/Mb68RwC.png)  
+  
     Ridge regression future predictions:
-    {('03/31/2020', 1065417.0),
-    ('04/01/2020', 1212846.0),
-    ('04/02/2020', 1378420.0),
-    ('04/03/2020', 1563810.0),
-    ('04/04/2020', 1770794.0),
-    ('04/05/2020', 2001260.0),
-    ('04/06/2020', 2257211.0),
-    ('04/07/2020', 2540771.0),
-    ('04/08/2020', 2854184.0),
-    ('04/09/2020', 3199824.0)}
+    {('04/01/2020', 1175073.0),
+    ('04/02/2020', 1333592.0),
+    ('04/03/2020', 1511025.0),
+    ('04/04/2020', 1709069.0),
+    ('04/05/2020', 1929525.0),
+    ('04/06/2020', 2174307.0),
+    ('04/07/2020', 2445440.0),
+    ('04/08/2020', 2745069.0),
+    ('04/09/2020', 3075461.0),
+    ('04/10/2020', 3439010.0)}
+
 
 _____
   
