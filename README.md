@@ -5,11 +5,11 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 # Visualizations  
   
 
-[World Map - Time series/ Animated](https://imgur.com/aom2R1j)  
-![World Map, 31-03-2020](https://i.imgur.com/2XsW5Gn.png)   
+[World Map - Time series/ Animated](https://imgur.com/LSKZUTn)  
+![World Map, 01-04-2020](https://i.imgur.com/2XsW5Gn.png)   
   
-[Confirmed Cases - Time series/ Animated](https://imgur.com/eCGfx3w)
-![Confirmed Cases, 31-03-2020](https://i.imgur.com/yh0TCWP.png)
+[Confirmed Cases - Time series/ Animated](https://imgur.com/j8a3AU2)
+![Confirmed Cases, 01-04-2020](https://i.imgur.com/yh0TCWP.png)
   
 ## Most Affected  
 Total confirmed cases after 500 cases, Most affected countries:
