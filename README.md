@@ -156,7 +156,7 @@ An analysis of over [3,500 CBC articles](https://www.kaggle.com/ryanxjhan/cbc-ne
 Most mentioned words in titles:  
 ![titles](https://i.imgur.com/3TU5JZZ.png)
   
-I've used VADER to analyse the sentiment polarity of those articles, VADER uses a dictionary to assign scores to the words, while considering their location within the text and punctuations to score the document with a proportion of each sentiment contained on it. Those sentiments are named negative, positive and neutral.  
+I've used VADER to analyze the sentiment polarity of those articles, VADER uses a dictionary to assign scores to the words while considering their location within the text and punctuations to score the document with a proportion of each sentiment contained on it. Those sentiments are named negative, positive and neutral.  
   
 After getting the proportions for each sentiment VADER calculates a compound. The compound is a normalized sum of all proportions, from -1 (completely negative) to 1 (completely positive).  
   
@@ -171,7 +171,7 @@ Some of the semantic contexts considered by VADER are:
 Overall Polarity:  
 ![Overall](https://i.imgur.com/Qrt9Tsj.png)
   
-Most of a text polarity is usualy neutral, so this results are not surprising. There are other ways of looking at sentiment polarity, rather than an overall score, let's start by grouping the values.
+Most of a text polarity is usually neutral, so these results are not surprising. There are other ways of looking at sentiment polarity, rather than an overall score, let's start by grouping the values.
 
 Monthly:  
 ![polarity_month](https://i.imgur.com/w5Oup3q.png)
