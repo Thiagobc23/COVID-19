@@ -12,15 +12,12 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 ![Confirmed Cases, 01-04-2020](https://i.imgur.com/Ufu9uEo.png)
   
 ## Most Affected  
+The most affected countries are US, Italy, and Spain  
+*Until 30-03-2020, China, Italy, U.S. were the most affected countries in the world.  
+
 Total confirmed cases after 500 cases, Most affected countries:
 ![Confirmed Cases](https://i.imgur.com/Qpjv143.png)  
-![Mortality](https://i.imgur.com/gdPZ8Wa.png)  
-![Recovered](https://i.imgur.com/KgFLWIz.png)  
-  
-The most affected countries are US, Italy, and Spain  
-  
-*Until 30-03-2020, China, Asia/ Italy, Europe/ U.S., North America were the most affected countries in the world.  
-  
+    
 **Italy** is the second country to have extremely high numbers of infections, it started after China's lockdown and quarantine procedures while WHO was telling the situation was under control. Since they were the first country to be heavily hit after China, their [healthcare system couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and was quickly overwhelmed by cases. Italy is, for now, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.
 
 **United States** is currently the country with most cases, it started to accumulate cases really soon, but only recognized the problem on the late march when the many epidemics spread trought the country couldn't be contained anymore. Most of the mistakes the US committed were due to poor leadership and denialism of what was happening. Apparently they recently realized the impacts this crisis will bring to the economy and began to heavily test and prepare for the ongoing crisis.
@@ -33,12 +30,9 @@ The most affected countries are US, Italy, and Spain
 
 **Spain** was heavily hit with the virus shortly after Italy, they are currently the third country with most cases of the disease and the second country with the most fatalities. They have been struggling with resource shortages, and the overflow of infected patients have [reportedly](https://www.youtube.com/watch?v=i4DngwmTzIA) overwhelmed their systems.  
   
-_____
-## Restaurant Reservations
+![Mortality](https://i.imgur.com/gdPZ8Wa.png)  
+![Recovered](https://i.imgur.com/KgFLWIz.png)  
 
-Year over year change in restaurant reservations, [data from OpenTable](https://www.kaggle.com/roche-data-science-coalition/uncover) 
-![img](https://i.imgur.com/qmJNfx0.gif)
-  
 _____
 
 ## Most Affected (Europe)
@@ -46,17 +40,21 @@ The most affected countries so far are Italy, Spain, Germany, UK, and France.
   
 Total confirmed cases after 500 cases, Most affected countries (Europe):
 ![Confirmed Cases](https://i.imgur.com/H4EOav9.png)
-![Mortality](https://i.imgur.com/NzqCsos.png)
-![Recovered](https://i.imgur.com/KYqCQL0.png)
   
 **Germany** apparently has been handling well the situation, they started to the crisis with very high amounts of testings and even though this made their numbers increase quite fast they're apparently aware of the situation and are being able to maintain a very low mortality rate. They are also the only country I've heard so far to be helping other EU countries with not only resources but also taking [patients for treatment](https://www.foxnews.com/world/germany-takes-coronavirus-patients-from-italy).  
   
 **United Kingdom** was reluctant to start preparations and enforce containment measures at the beginning of the crisis, they considered [herd-immunity](https://www.youtube.com/watch?v=hJBTV8anp-8) as an option but eventually recognized their mistakes and started a [nationwide lockdown](https://www.youtube.com/watch?v=LlJIwTd9fqI) 4 days before announcing the [PM has tested positive](https://www.cbc.ca/news/world/britain-pm-johnson-covid-19-1.5512020) for the virus. Their current situation is not good, they had also experienced a lack of resources, more specifically of [tests](https://www.youtube.com/watch?v=96_4FfXA94c).
-
-## Personal Selection
+  
+![Mortality](https://i.imgur.com/NzqCsos.png)  
+![Recovered](https://i.imgur.com/KYqCQL0.png)  
+  
+## Personal Selection  
+  
+Brazil, Canada, and South Korea  
+![Confirmed Cases](https://i.imgur.com/ssNZPQ7.png)  
+  
 Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to properly deal with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
   
-![Confirmed Cases](https://i.imgur.com/ssNZPQ7.png)  
 ![Mortality](https://i.imgur.com/IoR8WBb.png)
 ![Recovered](https://i.imgur.com/HLz3k3r.png)
   
@@ -128,6 +126,11 @@ Polynomial Baysian Ridge Regression:
     ('04/11/2020', 1637965.0),
     ('04/12/2020', 1669282.0)}
 
+_____
+## Restaurant Reservations
+
+Year over year change in restaurant reservations, [data from OpenTable](https://www.kaggle.com/roche-data-science-coalition/uncover) 
+![img](https://i.imgur.com/qmJNfx0.gif)
   
 _____
   
