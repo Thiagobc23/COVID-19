@@ -1,6 +1,22 @@
-# Objective
+# Corona Virus Disease 2019
+  
+Referencing the **[Public Health Agency of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html?topic=ex-col-faq#a)**:  
+  
+"About coronaviruses
+Coronaviruses are a large family of viruses. Some cause illness in people and others cause illness in animals. Human coronaviruses are common and are typically associated with mild illnesses, similar to the common cold.
+  
+COVID-19 is a new disease that has not been previously identified in humans. Rarely, animal coronaviruses can infect people, and more rarely, these can then spread from person to person through close contact.
+  
+There have been 2 other specific coronaviruses that have spread from animals to humans and which have caused severe illness in humans. These are the:  
+  
+[Severe acute respiratory syndrome coronavirus (SARS CoV)](https://www.canada.ca/en/health-canada/services/health-concerns/diseases-conditions/sars-severe-acute-respiratory-syndrome.html)  
+[Middle East respiratory syndrome coronavirus (MERS CoV)](https://www.canada.ca/en/public-health/services/diseases/middle-east-respiratory-syndrome-mers.html)"  
+
+## Objective
 
 To report, analyze, visualize, and acquire knowledge of the current Corona Virus Disease 2019 (COVID-19).  
+
+This is mostly to keep a personal record of what is going on, I'm trying to use data and visualizations to record my current perception of the pandemic. Please take in mind that those are my opinions, I've tried to source all my assumptions and views, but still, there are many ways of looking at the same data or the same reports, articles, news, etc...
   
 # Visualizations  
   
@@ -11,7 +27,7 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 [Confirmed Cases - Time series/ Animated](https://imgur.com/q7cMB9r)
 ![Confirmed Cases, 01-04-2020](https://i.imgur.com/Ufu9uEo.png)
   
-## Most Affected  
+# Most Affected  
 The most affected countries are US, Italy, and Spain  
 *Until 30-03-2020, China, Italy, U.S. were the most affected countries in the world.  
 
@@ -35,7 +51,7 @@ Total confirmed cases after 500 cases, Most affected countries:
 
 _____
 
-## Most Affected (Europe)
+# Most Affected (Europe)
 The most affected countries so far are Italy, Spain, Germany, UK, and France.  
   
 Total confirmed cases after 500 cases, Most affected countries (Europe):
@@ -48,7 +64,7 @@ Total confirmed cases after 500 cases, Most affected countries (Europe):
 ![Mortality](https://i.imgur.com/NzqCsos.png)  
 ![Recovered](https://i.imgur.com/KYqCQL0.png)  
   
-## Personal Selection  
+# Personal Selection  
   
 Brazil, Canada, and South Korea  
 ![Confirmed Cases](https://i.imgur.com/ssNZPQ7.png)  
@@ -60,7 +76,7 @@ Besides the most affected countries, I want to keep track of Canada which is the
   
 _____
   
-## China
+# China
   
 ![Confirmed Cases](https://i.imgur.com/4nMJlbC.png)  
   
@@ -75,7 +91,7 @@ _____
   
 _____
 
-## Regressions
+# Regressions
 
 Those regressions are based on the work compiled by [Xingyu Bian](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction).  
   
@@ -127,14 +143,14 @@ Polynomial Baysian Ridge Regression:
     ('04/12/2020', 1669282.0)}
 
 _____
-## Restaurant Reservations
+# Restaurant Reservations
 
 Year over year change in restaurant reservations, [data from OpenTable](https://www.kaggle.com/roche-data-science-coalition/uncover) 
 ![img](https://i.imgur.com/qmJNfx0.gif)
   
 _____
   
-## Patients Info 
+# Patients Info 
 
 Based on a sample of [South Korea Cases](https://www.kaggle.com/kimjihoo/coronavirusdataset) - (Blue), and a sample of [Canada Cases](https://www.kaggle.com/roche-data-science-coalition/uncover) - (Orange Red)  
   
@@ -166,7 +182,7 @@ Histogram of patients by days until fatality
 
 _____
 
-## CBC News Articles
+# CBC News Articles
 An analysis of over [3,500 CBC articles](https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26) about the COVID-19 pandemic.  
   
 Most mentioned words in titles:  
@@ -229,4 +245,4 @@ Other Researches, Papers, and Publications:
   
 
 ### More Info About this Project:
-For now, I'm just collecting and analyzing data. As things are way too fast I'm not properly documenting my code or explaining what I'm doing, but I do want to revisit this project and complete it properly.
+For now, I'm just collecting and analyzing data. As things are way too fast I'm not properly documenting my code, but I do plan to return and fix this :)
