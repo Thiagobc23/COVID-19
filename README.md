@@ -50,11 +50,12 @@ Total confirmed cases after 500 cases, Most affected countries:
 
 **United States** is currently the country with most cases, it started to accumulate cases really soon, but only recognized the problem on the late march when the many epidemics spread trought the country couldn't be contained anymore. Most of the mistakes the US committed were due to poor leadership and denialism of what was happening. Apparently they recently realized the impacts this crisis will bring to the economy and began to heavily test and prepare for the ongoing crisis.
   
+![Trump Tweet](https://i.imgur.com/e6JNRGi.png)
+
+More:  
 [Trump on COVID-19](https://twitter.com/i/status/1242193904553865216)  
-  
 [NY - End of March](https://www.youtube.com/watch?v=bE68xVXf8Kw)  
-  
-[U.S. reluctant to call national lockdown](https://youtu.be/L1XIXssA1xg)
+[U.S. reluctant to call national lockdown](https://youtu.be/L1XIXssA1xg)  
 
 **Spain** was heavily hit with the virus shortly after Italy, they are currently the third country with most cases of the disease and the second country with the most fatalities. They have been struggling with resource shortages, and the overflow of infected patients have [reportedly](https://www.youtube.com/watch?v=i4DngwmTzIA) overwhelmed their systems.  
   
@@ -89,11 +90,15 @@ Infections, recoveries, deceased, and testing numbers by region:
 Brazil, Canada, and South Korea  
 ![Confirmed Cases](https://i.imgur.com/GRU27lX.png)  
   
-Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to properly deal with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
+Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
   
 ![Mortality](https://i.imgur.com/RUbU1KT.png)
 ![Recovered](https://i.imgur.com/EBcarxR.png)
   
+
+## More info on other countries
+  
+**Cuba** is being extremelly helpful to many different nation, instead of sending resources such as masks and ventilators, or picking patients from overwhelmed coutries Cuba is [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e).
 _____
   
 # China
