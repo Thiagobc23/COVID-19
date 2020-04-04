@@ -82,7 +82,7 @@ Infections, recoveries, deceased, and testing numbers by region:
   
 *Note that the time for concluding a test and receiving its results may vary, so the results showed in one day correspond to tests made earlier and not necessarily on that same day.  
   
-![ita_map](https://i.imgur.com/7qlsHFW.png)  
+![ita_map](https://i.imgur.com/7qlsHFW.gif)  
 
 # Personal Selection  
   
@@ -242,7 +242,7 @@ Data:
 [Forecast competition w2](https://www.kaggle.com/c/covid19-global-forecasting-week-2)  
 [Research Papers](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)  
 [Italy Cases](https://www.kaggle.com/sudalairajkumar/covid19-in-italy)  
-
+  
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
 [Cambridge University: Coronavirus Vaccine](https://youtu.be/UPkVbZ9X_jQ)  
