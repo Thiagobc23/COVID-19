@@ -18,22 +18,32 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 
 This is mostly to keep a personal record of what is going on, I'm trying to use data and visualizations to record my current perception of the pandemic. Please take in mind that those are my opinions, I've tried to source all my assumptions and views, but still, there are many ways of looking at the same data or the same reports, articles, news, etc...
   
+## Mortality Rates
+  
+I want to make a note here about the mortality rates. In this analysis, I've used two methods to calculate the on-going mortality rate of the virus, but it's important to mention that both of them are extremely naive.
+
+The [first way](https://www.worldometers.info/coronavirus/coronavirus-death-rate/#correct) is what most people are doing, simply calculating Deaths/Confirmed Cases and reporting the percentage of people that died from the disease compared to the number of confirmed cases, this is naive because it doesn't really consider the 'time'. Most of the confirmed cases are currently infections in process, that haven't concluded yet, so by considering them we are reducing the true mortality rate.  
+  
+The [other method](https://academic.oup.com/aje/article/162/5/479/82647) I'm using is calculating Deaths/(Deaths+Recoveries), this way we're considering only cases that came to a conclusion. But again this is still incomplete since at the beginning of the pandemic the only cases reported were cases with very heavy symptoms and mostly in late stages of the infection. The number of deaths was reported way faster than the recoveries and we took a long time until we started looking at asymptomatic cases. So this number will usually display a higher mortality rate than the true.  
+  
+To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
+
 # Visualizations  
   
 
-[World Map - Time series/ Animated](https://imgur.com/fZPkmHh)  
-![World Map, 02-04-2020](https://i.imgur.com/xH5pfcm.png)   
+[World Map - Time series/ Animated](https://imgur.com/pqIIBCo)  
+![World Map, 03-04-2020](https://i.imgur.com/EGCE5PT.png)   
   
-[Confirmed Cases - Time series/ Animated](https://imgur.com/q7cMB9r)
-![Confirmed Cases, 01-04-2020](https://i.imgur.com/Ufu9uEo.png)
+[Confirmed Cases - Time series/ Animated](https://imgur.com/Kj5IW4W)
+![Confirmed Cases, 01-04-2020](https://i.imgur.com/SqNyJaV.png)
   
 # Most Affected  
 The most affected countries are US, Italy, and Spain  
 *Until 30-03-2020, China, Italy, U.S. were the most affected countries in the world.  
 
 Total confirmed cases after 500 cases, Most affected countries:
-![Confirmed Cases](https://i.imgur.com/Qpjv143.png)  
-    
+![Confirmed Cases](https://i.imgur.com/IdvO8Qq.png)  
+  
 **Italy** is the second country to have extremely high numbers of infections, it started after China's lockdown and quarantine procedures while WHO was telling the situation was under control. Since they were the first country to be heavily hit after China, their [healthcare system couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and was quickly overwhelmed by cases. Italy is, for now, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.
 
 **United States** is currently the country with most cases, it started to accumulate cases really soon, but only recognized the problem on the late march when the many epidemics spread trought the country couldn't be contained anymore. Most of the mistakes the US committed were due to poor leadership and denialism of what was happening. Apparently they recently realized the impacts this crisis will bring to the economy and began to heavily test and prepare for the ongoing crisis.
@@ -46,39 +56,39 @@ Total confirmed cases after 500 cases, Most affected countries:
 
 **Spain** was heavily hit with the virus shortly after Italy, they are currently the third country with most cases of the disease and the second country with the most fatalities. They have been struggling with resource shortages, and the overflow of infected patients have [reportedly](https://www.youtube.com/watch?v=i4DngwmTzIA) overwhelmed their systems.  
   
-![Mortality](https://i.imgur.com/gdPZ8Wa.png)  
-![Recovered](https://i.imgur.com/KgFLWIz.png)  
-
+![Mortality](https://i.imgur.com/XtXGXWC.png)  
+![Recovered](https://i.imgur.com/Fcfcpj2.png)  
+  
 _____
 
 # Most Affected (Europe)
 The most affected countries so far are Italy, Spain, Germany, UK, and France.  
   
 Total confirmed cases after 500 cases, Most affected countries (Europe):
-![Confirmed Cases](https://i.imgur.com/H4EOav9.png)
+![Confirmed Cases](https://i.imgur.com/6Vhl7YZ.png)
   
 **Germany** apparently has been handling well the situation, they started to the crisis with very high amounts of testings and even though this made their numbers increase quite fast they're apparently aware of the situation and are being able to maintain a very low mortality rate. They are also the only country I've heard so far to be helping other EU countries with not only resources but also taking [patients for treatment](https://www.foxnews.com/world/germany-takes-coronavirus-patients-from-italy).  
   
 **United Kingdom** was reluctant to start preparations and enforce containment measures at the beginning of the crisis, they considered [herd-immunity](https://www.youtube.com/watch?v=hJBTV8anp-8) as an option but eventually recognized their mistakes and started a [nationwide lockdown](https://www.youtube.com/watch?v=LlJIwTd9fqI) 4 days before announcing the [PM has tested positive](https://www.cbc.ca/news/world/britain-pm-johnson-covid-19-1.5512020) for the virus. Their current situation is not good, they had also experienced a lack of resources, more specifically of [tests](https://www.youtube.com/watch?v=96_4FfXA94c).
   
-![Mortality](https://i.imgur.com/NzqCsos.png)  
-![Recovered](https://i.imgur.com/KYqCQL0.png)  
+![Mortality](https://i.imgur.com/XZa1iV7.png)  
+![Recovered](https://i.imgur.com/n3WbxOa.png)  
   
 # Personal Selection  
   
 Brazil, Canada, and South Korea  
-![Confirmed Cases](https://i.imgur.com/ssNZPQ7.png)  
+![Confirmed Cases](https://i.imgur.com/GRU27lX.png)  
   
 Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to properly deal with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
   
-![Mortality](https://i.imgur.com/IoR8WBb.png)
-![Recovered](https://i.imgur.com/HLz3k3r.png)
+![Mortality](https://i.imgur.com/RUbU1KT.png)
+![Recovered](https://i.imgur.com/EBcarxR.png)
   
 _____
   
 # China
   
-![Confirmed Cases](https://i.imgur.com/4nMJlbC.png)  
+![Confirmed Cases](https://i.imgur.com/Db6kmFP.png)  
   
 **China** is the epicenter of the disease, where it originated and started spreading. It has been keeping a very bad record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and are treating the pandemic. In addition to that, at the start of the pandemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by ensuring other nations that China was doing a great job containing the virus. This series of misleading actions and grave mistakes led to the second extremely hit country, Italy.  
   
@@ -86,8 +96,8 @@ _____
   
 [Late Asymptomatic Cases Reporting](https://www.cnn.com/2020/03/31/asia/china-asymptomatic-coronavirus-cases/index.html) 
   
-![Mortality](https://i.imgur.com/YBfpbq6.png)  
-![Recovered](https://i.imgur.com/Whyb5OZ.png)  
+![Mortality](https://i.imgur.com/hl2rSuA.png)  
+![Recovered](https://i.imgur.com/dEHSMdx.png)  
   
 _____
 
@@ -185,20 +195,10 @@ _____
 # CBC News Articles
 An analysis of over [3,500 CBC articles](https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26) about the COVID-19 pandemic.  
   
-Most mentioned words in titles:  
+Most mentioned words in the titles:  
 ![titles](https://i.imgur.com/3TU5JZZ.png)
   
-I've used VADER to analyze the sentiment polarity of those articles, VADER uses a dictionary to assign scores to the words while considering their location within the text and punctuations to score the document with a proportion of each sentiment contained on it. Those sentiments are named negative, positive and neutral.  
-  
-After getting the proportions for each sentiment VADER calculates a compound. The compound is a normalized sum of all proportions, from -1 (completely negative) to 1 (completely positive).  
-  
-Some of the semantic contexts considered by VADER are:  
-  
-        Conjunctions	    E.g.: 'I like your X, but your Y is very bad';
-        Negation Flips 	    E.g.: 'This is not really the greatest';
-        Degrees		    E.g.: 'This is good' vs 'This is extremely good';
-        Capitalization 	    E.g.: 'this is GREAT' vs 'this is great';
-        Punctuation		    E.g.: 'this is great!!!' vs 'this is great'; 
+I've used VADER to analyze the sentiment polarity of those articles, it uses a dictionary to assign scores to the words while considering their location within the text, punctuations, and other gramatical variables to score the document with a proportion of each sentiment polarity contained on it. Those polarities are classified as negative, positive and neutral.  
   
 Overall Polarity:  
 ![Overall](https://i.imgur.com/Qrt9Tsj.png)
