@@ -18,17 +18,9 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 
 This is mostly to keep a personal record of what is going on, I'm trying to use data and visualizations to record my current perception of the pandemic. Please take in mind that those are my opinions, I've tried to source all my assumptions and views, but still, there are many ways of looking at the same data or the same reports, articles, news, etc...
   
-## Mortality Rates
-  
-I want to make a note here about the mortality rates. In this analysis, I've used two methods to calculate the on-going mortality rate of the virus, but it's important to mention that both of them are extremely naive.
 
-The [first way](https://www.worldometers.info/coronavirus/coronavirus-death-rate/#correct) is what most people are doing, simply calculating Deaths/Confirmed Cases and reporting the percentage of people that died from the disease compared to the number of confirmed cases, this is naive because it doesn't really consider the 'time'. Most of the confirmed cases are currently infections in process, that haven't concluded yet, so by considering them we are reducing the true mortality rate.  
-  
-The [other method](https://academic.oup.com/aje/article/162/5/479/82647) I'm using is calculating Deaths/(Deaths+Recoveries), this way we're considering only cases that came to a conclusion. But again this is still incomplete since at the beginning of the pandemic the only cases reported were cases with very heavy symptoms and mostly in late stages of the infection. The number of deaths was reported way faster than the recoveries and we took a long time until we started looking at asymptomatic cases. So this number will usually display a higher mortality rate than the true.  
-  
-To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
 
-# Visualizations  
+# Overview  
   
 
 [World Map - Time series/ Animated](https://imgur.com/pqIIBCo)  
@@ -40,6 +32,16 @@ To make it simple, consider the first mortality rate you see as an underestimate
 # Most Affected  
 The most affected countries are US, Italy, and Spain  
 *Until 30-03-2020, China, Italy, U.S. were the most affected countries in the world.  
+  
+## Mortality Rates
+  
+I want to make a note here about the mortality rates. In this analysis, I've used two methods to calculate the on-going mortality rate of the virus, but it's important to mention that both of them are extremely naive.
+
+The [first way](https://www.worldometers.info/coronavirus/coronavirus-death-rate/#correct) is what most people are doing, simply calculating Deaths/Confirmed Cases and reporting the percentage of people that died from the disease compared to the number of confirmed cases, this is naive because it doesn't really consider the 'time'. Most of the confirmed cases are currently infections in process, that haven't concluded yet, so by considering them we are reducing the true mortality rate.  
+  
+The [other method](https://academic.oup.com/aje/article/162/5/479/82647) I'm using is calculating Deaths/(Deaths+Recoveries), this way we're considering only cases that came to a conclusion. But again this is still incomplete since at the beginning of the pandemic the only cases reported were cases with very heavy symptoms and mostly in late stages of the infection. The number of deaths was reported way faster than the recoveries and we took a long time until we started looking at asymptomatic cases. So this number will usually display a higher mortality rate than the true.  
+  
+To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
 
 Total confirmed cases after 500 cases, Most affected countries:
 ![Confirmed Cases](https://i.imgur.com/IdvO8Qq.png)  
@@ -73,7 +75,15 @@ Total confirmed cases after 500 cases, Most affected countries (Europe):
   
 ![Mortality](https://i.imgur.com/XZa1iV7.png)  
 ![Recovered](https://i.imgur.com/n3WbxOa.png)  
+_____  
+## More on Italy
   
+Infections, recoveries, deceased, and testing numbers by region:  
+  
+*Note that the time for concluding a test and receiving its results may vary, so the results showed in one day correspond to tests made earlier and not necessarily on that same day.  
+  
+![ita_map](https://i.imgur.com/7qlsHFW.png)  
+
 # Personal Selection  
   
 Brazil, Canada, and South Korea  
@@ -162,19 +172,19 @@ _____
   
 # Patients Info 
 
-Based on a sample of [South Korea Cases](https://www.kaggle.com/kimjihoo/coronavirusdataset) - (Blue), and a sample of [Canada Cases](https://www.kaggle.com/roche-data-science-coalition/uncover) - (Orange Red)  
+Based on a sample of [South Korea Cases](https://www.kaggle.com/kimjihoo/coronavirusdataset) - (Blue), and a sample of [Canada Cases](https://www.kaggle.com/roche-data-science-coalition/uncover), [More Canada](https://github.com/ishaberry/Covid19Canada) - (Orange Red)  
   
 Age Distribution - All Patients  
-![Age Distribution - All Patients](https://i.imgur.com/GddSCim.png)  
+![Age Distribution - All Patients](https://i.imgur.com/2xlugIX.png)  
 Age Distribution - Female Patients  
-![Age Distribution - Female Patients](https://i.imgur.com/0BWSmL1.png)  
+![Age Distribution - Female Patients](https://i.imgur.com/XSsRIKl.png)  
 Age Distribution - Male Patients  
-![Age Distribution - Male Patients](https://i.imgur.com/H58QV33.png)  
+![Age Distribution - Male Patients](https://i.imgur.com/r7GOy0q.png)  
 Age Distribution - Released Patients  
 ![Age Distribution - Released Patients](https://i.imgur.com/torXsJ3.png)  
 Age Distribution - Deceased Patients  
-![Age Distribution - Deceased Patients](https://i.imgur.com/uYZLVVn.png)  
-
+![Age Distribution - Deceased Patients](https://i.imgur.com/ehnV2we.png)  
+  
 Histogram of patients by days until release  
 (days between confirmed case and release)  
   
@@ -220,19 +230,19 @@ Normalized non-neutral scores - Weekly:
   
 # References, resources, and inspirations.  
   
-Kaggle Covid-19 research effort:  
-[Forecast competition w1](https://www.kaggle.com/c/covid19-global-forecasting-week-1);  
-[Forecast competition w2](https://www.kaggle.com/c/covid19-global-forecasting-week-2);  
-[Research Papers](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/);  
-  
 Data:  
 [Daily Cases and Reports - by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 [CBC News Articles Dataset](https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26)  
 [Data Science for Covid-19 - South Korea Data](https://www.kaggle.com/kimjihoo/coronavirusdataset)  
-[Daily Cases Report](https://www.kaggle.com/imdevskp/corona-virus-report);  
+[Covid19 - Canada](https://github.com/ishaberry/Covid19Canada)  
+[Daily Cases Report](https://www.kaggle.com/imdevskp/corona-virus-report)  
 [World Bank - Health Systems](https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems)  
 [Roche DS Coalition - Uncover Challange](https://www.kaggle.com/roche-data-science-coalition/uncover#public-covid-19-cases-canada.csv)  
-  
+[Forecast competition w1](https://www.kaggle.com/c/covid19-global-forecasting-week-1)  
+[Forecast competition w2](https://www.kaggle.com/c/covid19-global-forecasting-week-2)  
+[Research Papers](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)  
+[Italy Cases](https://www.kaggle.com/sudalairajkumar/covid19-in-italy)  
+
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
 [Cambridge University: Coronavirus Vaccine](https://youtu.be/UPkVbZ9X_jQ)  
