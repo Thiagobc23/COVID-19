@@ -23,11 +23,11 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
 # Overview  
   
 
-[World Map - Time series/ Animated](https://imgur.com/pqIIBCo)  
-![World Map, 03-04-2020](https://i.imgur.com/EGCE5PT.png)   
+[World Map - Time series/ Animated](https://imgur.com/JS8hzrf)  
+![World Map, 04-05-2020](https://i.imgur.com/eyB6Pxh.png)   
   
-[Confirmed Cases - Time series/ Animated](https://imgur.com/Kj5IW4W)
-![Confirmed Cases, 01-04-2020](https://i.imgur.com/SqNyJaV.png)
+[Confirmed Cases - Time series/ Animated](https://imgur.com/y9u48cD)
+![Confirmed Cases, 04-05-2020](https://i.imgur.com/6Q428uC.png)
   
 # Most Affected  
 The most affected countries are US, Italy, and Spain  
@@ -44,7 +44,7 @@ The [other method](https://academic.oup.com/aje/article/162/5/479/82647) I'm usi
 To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
 
 Total confirmed cases after 500 cases, Most affected countries:
-![Confirmed Cases](https://i.imgur.com/IdvO8Qq.png)  
+![Confirmed Cases](https://i.imgur.com/SZhnStj.png)  
   
 **Italy** is the second country to have extremely high numbers of infections, it started after China's lockdown and quarantine procedures while WHO was telling the situation was under control. Since they were the first country to be heavily hit after China, their [healthcare system couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and was quickly overwhelmed by cases. Italy is, for now, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.
 
@@ -59,8 +59,8 @@ More:
 
 **Spain** was heavily hit with the virus shortly after Italy, they are currently the third country with most cases of the disease and the second country with the most fatalities. They have been struggling with resource shortages, and the overflow of infected patients have [reportedly](https://www.youtube.com/watch?v=i4DngwmTzIA) overwhelmed their systems.  
   
-![Mortality](https://i.imgur.com/XtXGXWC.png)  
-![Recovered](https://i.imgur.com/Fcfcpj2.png)  
+![Mortality](https://i.imgur.com/MgouJRV.png)  
+![Recovered](https://i.imgur.com/9tneIi9.png)  
   
 _____
 
@@ -68,14 +68,14 @@ _____
 The most affected countries so far are Italy, Spain, Germany, UK, and France.  
   
 Total confirmed cases after 500 cases, Most affected countries (Europe):
-![Confirmed Cases](https://i.imgur.com/6Vhl7YZ.png)
+![Confirmed Cases](https://i.imgur.com/GiEkEHm.png)
   
 **Germany** apparently has been handling well the situation, they started to the crisis with very high amounts of testings and even though this made their numbers increase quite fast they're apparently aware of the situation and are being able to maintain a very low mortality rate. They are also the only country I've heard so far to be helping other EU countries with not only resources but also taking [patients for treatment](https://www.foxnews.com/world/germany-takes-coronavirus-patients-from-italy).  
   
 **United Kingdom** was reluctant to start preparations and enforce containment measures at the beginning of the crisis, they considered [herd-immunity](https://www.youtube.com/watch?v=hJBTV8anp-8) as an option but eventually recognized their mistakes and started a [nationwide lockdown](https://www.youtube.com/watch?v=LlJIwTd9fqI) 4 days before announcing the [PM has tested positive](https://www.cbc.ca/news/world/britain-pm-johnson-covid-19-1.5512020) for the virus. Their current situation is not good, they had also experienced a lack of resources, more specifically of [tests](https://www.youtube.com/watch?v=96_4FfXA94c).
   
-![Mortality](https://i.imgur.com/XZa1iV7.png)  
-![Recovered](https://i.imgur.com/n3WbxOa.png)  
+![Mortality](https://i.imgur.com/lmyXnam.png)  
+![Recovered](https://i.imgur.com/bblCj2m.png)  
 _____  
 ## More on Italy
   
@@ -88,12 +88,12 @@ Infections, recoveries, deceased, and testing numbers by region:
 # Personal Selection  
   
 Brazil, Canada, and South Korea  
-![Confirmed Cases](https://i.imgur.com/GRU27lX.png)  
+![Confirmed Cases](https://i.imgur.com/a8mkykT.png)  
   
 Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
   
-![Mortality](https://i.imgur.com/RUbU1KT.png)
-![Recovered](https://i.imgur.com/EBcarxR.png)
+![Mortality](https://i.imgur.com/JHkjcHT.png)
+![Recovered](https://i.imgur.com/YhF22XZ.png)
   
 
 ## More info on other countries
@@ -103,7 +103,7 @@ _____
   
 # China
   
-![Confirmed Cases](https://i.imgur.com/Db6kmFP.png)  
+![Confirmed Cases](https://i.imgur.com/t8gc3S5.png)  
   
 **China** is the epicenter of the disease, where it originated and started spreading. It has been keeping a very bad record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and are treating the pandemic. In addition to that, at the start of the pandemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by ensuring other nations that China was doing a great job containing the virus. This series of misleading actions and grave mistakes led to the second extremely hit country, Italy.  
   
@@ -111,8 +111,8 @@ _____
   
 [Late Asymptomatic Cases Reporting](https://www.cnn.com/2020/03/31/asia/china-asymptomatic-coronavirus-cases/index.html) 
   
-![Mortality](https://i.imgur.com/hl2rSuA.png)  
-![Recovered](https://i.imgur.com/dEHSMdx.png)  
+![Mortality](https://i.imgur.com/AxCEr8Z.png)  
+![Recovered](https://i.imgur.com/WbBixlZ.png)  
   
 _____
 
@@ -123,58 +123,54 @@ Those regressions are based on the work compiled by [Xingyu Bian](https://www.ka
 It's important to make a few notes about regressions and predictions at this time, those numbers are for illustration and research only and should never replace any kind of medical or governmental information you may receive. It's also important to note that the veracity of the analyzed data is questionable so predictions may have a huge distortion when compared to reality.
   
 SVM - Support Vector Machine Regressor:  
-![svm](https://i.imgur.com/ppDE7eJ.png)
+![svm](https://i.imgur.com/6kkQKLk.png)
   
     SVM future predictions:
-    {('04/03/2020', 1109910.0),
-    ('04/04/2020', 1217855.0),
-    ('04/05/2020', 1335047.0),
-    ('04/06/2020', 1462136.0),
-    ('04/07/2020', 1599809.0),
-    ('04/08/2020', 1748791.0),
-    ('04/09/2020', 1909846.0),
-    ('04/10/2020', 2083777.0),
-    ('04/11/2020', 2271433.0),
-    ('04/12/2020', 2473703.0)}
+    {('04/06/2020', 1529832.0),
+    ('04/07/2020', 1674117.0),
+    ('04/08/2020', 1830254.0),
+    ('04/09/2020', 1999043.0),
+    ('04/10/2020', 2181328.0),
+    ('04/11/2020', 2377996.0),
+    ('04/12/2020', 2589980.0),
+    ('04/13/2020', 2818262.0),
+    ('04/14/2020', 3063873.0),
+    ('04/15/2020', 3327896.0)}
+
   
 Polynomial Regression:  
-![Pol_reg](https://i.imgur.com/uYJypGi.png)
+![Pol_reg](https://i.imgur.com/WH0jcZH.png)
   
     Polynomial regression future predictions:
-    {('04/03/2020', 1241314.0),
-    ('04/04/2020', 1375667.0),
-    ('04/05/2020', 1522680.0),
-    ('04/06/2020', 1683305.0),
-    ('04/07/2020', 1858546.0),
-    ('04/08/2020', 2049471.0),
-    ('04/09/2020', 2257208.0),
-    ('04/10/2020', 2482952.0),
-    ('04/11/2020', 2727967.0),
-    ('04/12/2020', 2993586.0)}
+    {('04/06/2020', 1375507.0),
+    ('04/07/2020', 1465726.0),
+    ('04/08/2020', 1554374.0),
+    ('04/09/2020', 1640001.0),
+    ('04/10/2020', 1720946.0),
+    ('04/11/2020', 1795317.0),
+    ('04/12/2020', 1860973.0),
+    ('04/13/2020', 1915507.0),
+    ('04/14/2020', 1956221.0),
+    ('04/15/2020', 1980109.0)}
+
   
 Polynomial Baysian Ridge Regression:  
-![Pol_Bay_Rid](https://i.imgur.com/x7gzdqW.png)  
+![Pol_Bay_Rid](https://i.imgur.com/VmWzN0o.png)  
   
     Ridge regression future predictions:
-    {('04/03/2020', 1092470.0),
-    ('04/04/2020', 1172322.0),
-    ('04/05/2020', 1251730.0),
-    ('04/06/2020', 1329495.0),
-    ('04/07/2020', 1404235.0),
-    ('04/08/2020', 1474367.0),
-    ('04/09/2020', 1538094.0),
-    ('04/10/2020', 1593387.0),
-    ('04/11/2020', 1637965.0),
-    ('04/12/2020', 1669282.0)}
+    {('04/06/2020', 1319525.0),
+    ('04/07/2020', 1392158.0),
+    ('04/08/2020', 1459858.0),
+    ('04/09/2020', 1520790.0),
+    ('04/10/2020', 1572883.0),
+    ('04/11/2020', 1613815.0),
+    ('04/12/2020', 1640992.0),
+    ('04/13/2020', 1651531.0),
+    ('04/14/2020', 1642238.0),
+    ('04/15/2020', 1609590.0)}
+
 
 _____
-# Restaurant Reservations
-
-Year over year change in restaurant reservations, [data from OpenTable](https://www.kaggle.com/roche-data-science-coalition/uncover) 
-![img](https://i.imgur.com/qmJNfx0.gif)
-  
-_____
-  
 # Patients Info 
 
 Based on a sample of [South Korea Cases](https://www.kaggle.com/kimjihoo/coronavirusdataset) - (Blue), and a sample of [Canada Cases](https://www.kaggle.com/roche-data-science-coalition/uncover), [More Canada](https://github.com/ishaberry/Covid19Canada) - (Orange Red)  
@@ -233,6 +229,27 @@ Now we can start to see a trend of more positive articles. To extrapolate on tha
 Normalized non-neutral scores - Weekly:  
 ![norm_polarity_week](https://i.imgur.com/RwvmCPu.png)  
   
+_____
+# Restaurant Reservations
+
+Year over year change in restaurant reservations, [data from OpenTable](https://www.kaggle.com/roche-data-science-coalition/uncover) 
+![img](https://i.imgur.com/qmJNfx0.gif)
+  
+# Wellcome Survey - Science Perception
+  
+The [wellcome global monitor survey](https://wellcome.ac.uk/reports/wellcome-global-monitor/2018) has some very interesting data on public perception over science, medicine, government, and many other topics.
+  
+Those can be used to understand policies, public responses, and other aspects of the crisis. * Data from 2018
+
+Some examples:  
+![img](https://i.imgur.com/FEd9VYw.png)  
+  
+![img](https://i.imgur.com/fNLHVuM.png)  
+  
+![img](https://i.imgur.com/bMYmQ3u.png)  
+  
+_____
+
 # References, resources, and inspirations.  
   
 Data:  
@@ -247,6 +264,7 @@ Data:
 [Forecast competition w2](https://www.kaggle.com/c/covid19-global-forecasting-week-2)  
 [Research Papers](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)  
 [Italy Cases](https://www.kaggle.com/sudalairajkumar/covid19-in-italy)  
+[Survey Data on perception over science topics (2018)](https://wellcome.ac.uk/reports/wellcome-global-monitor/2018)
   
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
