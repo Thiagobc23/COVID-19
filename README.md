@@ -26,8 +26,8 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
 [World Map - Time series/ Animated](https://imgur.com/afkFPF1)  
 ![World Map, 04-05-2020](https://i.imgur.com/N2J3qfX.png)   
   
-[Confirmed Cases - Time series/ Animated](https://imgur.com/HS69629)
-![Confirmed Cases, 04-05-2020](https://i.imgur.com/gscXBqn.png)
+[Confirmed Cases - Time series/ Animated](https://imgur.com/ZayPYBO)
+![Confirmed Cases, 04-05-2020](https://i.imgur.com/oOhHCi2.png)
   
 # Confirmed Cases  
 
@@ -58,7 +58,7 @@ Most Affected:
 ![Mortality](https://i.imgur.com/uic3SXH.png)  
 ![Recovered](https://i.imgur.com/NiZwmL4.png)  
   
-Brazil, Canada, SK:  
+UK, Brazil, Canada, SK:  
 ![Mortality](https://i.imgur.com/PoIZm80.png)  
 ![Recovered](https://i.imgur.com/45qaTpr.png)  
   
