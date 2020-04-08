@@ -23,22 +23,22 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
 # Overview  
   
 
-[World Map - Time series/ Animated](https://imgur.com/afkFPF1)  
-![World Map, 04-05-2020](https://i.imgur.com/N2J3qfX.png)   
+[World Map - Time series/ Animated](https://imgur.com/sQ9wmiD)  
+![World Map, 04-05-2020](https://i.imgur.com/gbYVmRR.png)   
   
-[Confirmed Cases - Time series/ Animated](https://imgur.com/ZayPYBO)
-![Confirmed Cases, 04-05-2020](https://i.imgur.com/oOhHCi2.png)
+[Confirmed Cases - Time series/ Animated](https://imgur.com/KeMp4dE)
+![Confirmed Cases, 04-05-2020](https://i.imgur.com/KNVD3kj.png)
   
 # Confirmed Cases  
 
 Total confirmed cases after 500 cases, China:
-![Confirmed Cases](https://i.imgur.com/q5FLE89.png)  
+![Confirmed Cases](https://i.imgur.com/7ctC7mx.png)  
   
 Total confirmed cases after 500 cases, Most affected countries:  
-![Confirmed Cases](https://i.imgur.com/KX8lQcH.png)  
+![Confirmed Cases](https://i.imgur.com/Y7xKkFw.png)  
   
 UK, Brazil, Canada, and South Korea  
-![Confirmed Cases](https://i.imgur.com/8gJpV77.png)  
+![Confirmed Cases](https://i.imgur.com/bIYLb2i.png)  
   
 ## Mortality Rates
   
@@ -51,19 +51,32 @@ The [other method](https://academic.oup.com/aje/article/162/5/479/82647) I'm usi
 To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
   
 China:  
-![Mortality](https://i.imgur.com/XFkS2KO.png)  
-![Recovered](https://i.imgur.com/loMMygE.png)  
+![Mortality](https://i.imgur.com/b4BGrWD.png)  
+![Recovered](https://i.imgur.com/YvKI0mG.png)  
   
 Most Affected:  
-![Mortality](https://i.imgur.com/uic3SXH.png)  
-![Recovered](https://i.imgur.com/NiZwmL4.png)  
+![Mortality](https://i.imgur.com/6ugyuoe.png)  
+![Recovered](https://i.imgur.com/aLLnK9l.png)  
   
 UK, Brazil, Canada, SK:  
-![Mortality](https://i.imgur.com/PoIZm80.png)  
-![Recovered](https://i.imgur.com/45qaTpr.png)  
+![Mortality](https://i.imgur.com/xUrYJrt.png)  
+![Recovered](https://i.imgur.com/HdC3GYy.png)  
   
 _____
+# Timelines
 
+Some timelines of the measures taken to contain the infections.  
+  
+**Italy** tried to contain the outbreak with wide isolation measures:  
+![Italy_time](https://i.imgur.com/DLdiG6K.png)  
+  
+**South Korea** is containing the infections with targeted and clustered isolations and lots of testing.  
+![SK_time](https://i.imgur.com/5Sogszn.png)
+  
+**World-wide** lockdown measures, inspired by [this](https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3#china-implemented-what-was-then-the-largest-quarantine-in-human-history-to-try-to-contain-the-coronavirus-locking-down-at-least-16-cities-at-the-end-of-january-14) Business Insider article  
+![world_time](https://i.imgur.com/i6z9fsQ.png)  
+  
+_____
 # Regressions
 
 Those regressions are based on the work compiled by [Xingyu Bian](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction).  
