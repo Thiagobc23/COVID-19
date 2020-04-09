@@ -23,22 +23,22 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
 # Overview  
   
 
-[World Map - Time series/ Animated](https://imgur.com/sQ9wmiD)  
-![World Map, 04-05-2020](https://i.imgur.com/gbYVmRR.png)   
+[World Map - Time series/ Animated](https://imgur.com/Ckr8vV1)  
+![World Map, 04-05-2020](https://i.imgur.com/POLleRD.png)   
   
-[Confirmed Cases - Time series/ Animated](https://imgur.com/KeMp4dE)
-![Confirmed Cases, 04-05-2020](https://i.imgur.com/KNVD3kj.png)
+[Confirmed Cases - Time series/ Animated](https://imgur.com/erqFbmF)
+![Confirmed Cases, 04-05-2020](https://i.imgur.com/F4Y4LWW.png)
   
 # Confirmed Cases  
 
 Total confirmed cases after 500 cases, China:
-![Confirmed Cases](https://i.imgur.com/7ctC7mx.png)  
+![Confirmed Cases](https://i.imgur.com/RjLEWtu.png)  
   
 Total confirmed cases after 500 cases, Most affected countries:  
-![Confirmed Cases](https://i.imgur.com/Y7xKkFw.png)  
+![Confirmed Cases](https://i.imgur.com/vsdQG1t.png)  
   
 UK, Brazil, Canada, and South Korea  
-![Confirmed Cases](https://i.imgur.com/bIYLb2i.png)  
+![Confirmed Cases](https://i.imgur.com/cS05UKS.png)  
   
 ## Mortality Rates
   
@@ -46,21 +46,21 @@ I want to make a note here about the mortality rates. In this analysis, I've use
 
 The [first way](https://www.worldometers.info/coronavirus/coronavirus-death-rate/#correct) is what most people are doing, simply calculating Deaths/Confirmed Cases and reporting the percentage of people that died from the disease compared to the number of confirmed cases, this is naive because it doesn't really consider the 'time'. Most of the confirmed cases are currently infections in process, that haven't concluded yet, so by considering them we are reducing the true mortality rate.  
   
-The [other method](https://academic.oup.com/aje/article/162/5/479/82647) I'm using is calculating Deaths/(Deaths+Recoveries), this way we're considering only cases that came to a conclusion. But again this is still incomplete since at the beginning of the pandemic the only cases reported were cases with very heavy symptoms and mostly in late stages of the infection. The number of deaths was reported way faster than the recoveries and we took a long time until we started looking at asymptomatic cases. So this number will usually display a higher mortality rate than the true.  
+The [other methods](https://academic.oup.com/aje/article/162/5/479/82647) I'm using is calculating Deaths/(Deaths+Recoveries), this way we're considering only cases that came to a conclusion. But again this is still incomplete since at the beginning of the pandemic the only cases reported were cases with very heavy symptoms and mostly in late stages of the infection. The number of deaths was reported way faster than the recoveries and we took a long time until we started looking at asymptomatic cases. So this number will usually display a higher mortality rate than the true.  
   
 To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
   
 China:  
-![Mortality](https://i.imgur.com/b4BGrWD.png)  
-![Recovered](https://i.imgur.com/YvKI0mG.png)  
+![Mortality](https://i.imgur.com/9xSZxpK.png)  
+![Recovered](https://i.imgur.com/CFO1tEP.png)  
   
 Most Affected:  
-![Mortality](https://i.imgur.com/6ugyuoe.png)  
-![Recovered](https://i.imgur.com/aLLnK9l.png)  
+![Mortality](https://i.imgur.com/Mq3hM5b.png)  
+![Recovered](https://i.imgur.com/C38JCnP.png)  
   
 UK, Brazil, Canada, SK:  
-![Mortality](https://i.imgur.com/xUrYJrt.png)  
-![Recovered](https://i.imgur.com/HdC3GYy.png)  
+![Mortality](https://i.imgur.com/3nbjSPo.png)  
+![Recovered](https://i.imgur.com/vNQP4Ao.png)  
   
 _____
 # Timelines
@@ -68,13 +68,13 @@ _____
 Some timelines of the measures taken to contain the infections.  
   
 **Italy** tried to contain the outbreak with wide isolation measures:  
-![Italy_time](https://i.imgur.com/DLdiG6K.png)  
+![Italy_time](https://i.imgur.com/sniw0eB.png)  
   
 **South Korea** is containing the infections with targeted and clustered isolations and lots of testing.  
-![SK_time](https://i.imgur.com/5Sogszn.png)
+![SK_time](https://i.imgur.com/g5Gt6dk.png)
   
 **World-wide** lockdown measures, inspired by [this](https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3#china-implemented-what-was-then-the-largest-quarantine-in-human-history-to-try-to-contain-the-coronavirus-locking-down-at-least-16-cities-at-the-end-of-january-14) Business Insider article  
-![world_time](https://i.imgur.com/i6z9fsQ.png)  
+![world_time](https://i.imgur.com/xNZgL4G.png)  
   
 _____
 # Regressions
@@ -162,7 +162,7 @@ An analysis of over [3,500 CBC articles](https://www.kaggle.com/ryanxjhan/cbc-ne
 Most mentioned words in the titles:  
 ![titles](https://i.imgur.com/3TU5JZZ.png)
   
-I've used VADER to analyze the sentiment polarity of those articles, it uses a dictionary to assign scores to the words while considering their location within the text, punctuations, and other gramatical variables to score the document with a proportion of each sentiment polarity contained on it. Those polarities are classified as negative, positive and neutral.  
+I've used VADER to analyze the sentiment polarity of those articles, it uses a dictionary to assign scores to the words while considering their location within the text, punctuations, and other grammatical variables to score the document with a proportion of each sentiment polarity contained on it. Those polarities are classified as negative, positive and neutral.  
   
 ![polarity_month](https://i.imgur.com/w5Oup3q.png)
   
@@ -232,7 +232,7 @@ More:
 ## More    
 Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
   
-**Cuba** is being extremelly helpful to many different nation, instead of sending resources such as masks and ventilators, or picking patients from overwhelmed coutries Cuba is [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e).
+**Cuba** is being extremely helpful to many different nations, instead of sending resources such as masks and ventilators, or picking patients from overwhelmed countries Cuba is [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e).
 
 _____
 # References, resources, and inspirations.  
