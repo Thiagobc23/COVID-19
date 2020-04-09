@@ -228,9 +228,15 @@ More:
 **Germany** apparently has been handling well the situation, they started to the crisis with very high amounts of testings and even though this made their numbers increase quite fast they're apparently aware of the situation and are being able to maintain a very low mortality rate. They are also the only country I've heard so far to be helping other EU countries with not only resources but also taking [patients for treatment](https://www.foxnews.com/world/germany-takes-coronavirus-patients-from-italy).  
   
 **United Kingdom** was reluctant to start preparations and enforce containment measures at the beginning of the crisis, they considered [herd-immunity](https://www.youtube.com/watch?v=hJBTV8anp-8) as an option but eventually recognized their mistakes and started a [nationwide lockdown](https://www.youtube.com/watch?v=LlJIwTd9fqI) 4 days before announcing the [PM has tested positive](https://www.cbc.ca/news/world/britain-pm-johnson-covid-19-1.5512020) for the virus. Their current situation is not good, they had also experienced a lack of resources, more specifically of [tests](https://www.youtube.com/watch?v=96_4FfXA94c).
-
+  
+**Canada**  
+Cases overview:  
+![Canada Cases](https://i.imgur.com/MmojRKN.png)  
+  
+![Cadana Testing](https://i.imgur.com/M9mYn1h.png)
+  
 ## More    
-Besides the most affected countries, I want to keep track of Canada which is the country I'm currently living, South Korea which is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
+Besides the most affected countries, I want to keep track of South Korea which is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
   
 **Cuba** is being extremely helpful to many different nations, instead of sending resources such as masks and ventilators, or picking patients from overwhelmed countries Cuba is [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e).
 
@@ -249,7 +255,10 @@ Data:
 [Forecast competition w2](https://www.kaggle.com/c/covid19-global-forecasting-week-2)  
 [Research Papers](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)  
 [Italy Cases](https://www.kaggle.com/sudalairajkumar/covid19-in-italy)  
-[Wellcome Survey - on perception over science and healthcare topics (2018)](https://wellcome.ac.uk/reports/wellcome-global-monitor/2018)
+[Wellcome Survey - on perception over science and healthcare topics (2018)](https://wellcome.ac.uk/reports/wellcome-global-monitor/2018)  
+[CBC article on data sharing](https://www.cbc.ca/news/canada/coronavirus-date-information-sharing-1.5500709)  
+[Singapore Dashboard](https://co.vid19.sg/singapore/dashboard)  
+[Canada Dashboard](https://resources-covid19canada.hub.arcgis.com/)  
   
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
