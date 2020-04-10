@@ -24,10 +24,10 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
   
 
 [World Map - Time series/ Animated](https://imgur.com/Ckr8vV1)  
-![World Map, 04-05-2020](img/map.png)   
+![World Map, 04-09-2020](img/map.png)   
   
 [Confirmed Cases - Time series/ Animated](https://imgur.com/erqFbmF)
-![Confirmed Cases, 04-05-2020](img/rank.png)
+![Confirmed Cases, 04-09-2020](img/rank.png)
   
 # Confirmed Cases  
 
@@ -51,16 +51,16 @@ The [other methods](https://academic.oup.com/aje/article/162/5/479/82647) I'm us
 To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
   
 China:  
-![Mortality](https://i.imgur.com/9xSZxpK.png)  
-![Recovered](https://i.imgur.com/CFO1tEP.png)  
+![Mortality](img/mort_china.png)  
+![Recovered](img/rec_china.png)  
   
 Most Affected:  
-![Mortality](https://i.imgur.com/Mq3hM5b.png)  
-![Recovered](https://i.imgur.com/C38JCnP.png)  
+![Mortality](img/mort_top.png)  
+![Recovered](img/rec_top.png)  
   
 UK, Brazil, Canada, SK:  
-![Mortality](https://i.imgur.com/3nbjSPo.png)  
-![Recovered](https://i.imgur.com/vNQP4Ao.png)  
+![Mortality](img/mort_selection.png)  
+![Recovered](img/rec_selection.png)  
   
 _____
 # Timelines
@@ -68,13 +68,13 @@ _____
 Some timelines of the measures taken to contain the infections.  
   
 **Italy** tried to contain the outbreak with wide isolation measures:  
-![Italy_time](https://i.imgur.com/sniw0eB.png)  
+![Italy_time](img/italy_timeline.png)  
   
 **South Korea** is containing the infections with targeted and clustered isolations and lots of testing.  
-![SK_time](https://i.imgur.com/g5Gt6dk.png)
+![SK_time](img/sk_timeline.png)
   
 **World-wide** lockdown measures, inspired by [this](https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3#china-implemented-what-was-then-the-largest-quarantine-in-human-history-to-try-to-contain-the-coronavirus-locking-down-at-least-16-cities-at-the-end-of-january-14) Business Insider article  
-![world_time](https://i.imgur.com/xNZgL4G.png)  
+![world_time](img/world_timeline.png)  
   
 _____
 # Regressions
