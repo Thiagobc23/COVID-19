@@ -24,10 +24,10 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
   
 
 [World Map - Time series/ Animated](https://imgur.com/Ckr8vV1)  
-![World Map, 04-05-2020](https://i.imgur.com/POLleRD.png)   
+![World Map, 04-05-2020](img/map.png)   
   
 [Confirmed Cases - Time series/ Animated](https://imgur.com/erqFbmF)
-![Confirmed Cases, 04-05-2020](https://i.imgur.com/F4Y4LWW.png)
+![Confirmed Cases, 04-05-2020](img/rank.png)
   
 # Confirmed Cases  
 
