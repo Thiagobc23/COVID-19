@@ -31,14 +31,11 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
   
 # Confirmed Cases  
 
-Total confirmed cases after 500 cases, China:
-![Confirmed Cases](https://i.imgur.com/RjLEWtu.png)  
-  
 Total confirmed cases after 500 cases, Most affected countries:  
-![Confirmed Cases](https://i.imgur.com/vsdQG1t.png)  
+![Confirmed Cases](img/conf_top.png)  
   
 Brazil, Canada, and South Korea  
-![Confirmed Cases](https://i.imgur.com/cS05UKS.png)  
+![Confirmed Cases](img/conf_selection.png)  
   
 ## Mortality Rates
   
@@ -50,7 +47,7 @@ The [other methods](https://academic.oup.com/aje/article/162/5/479/82647) I'm us
   
 To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
   
-China:  
+China and the World:  
 ![Mortality](img/mort_china.png)  
 ![Recovered](img/rec_china.png)  
   
@@ -58,7 +55,7 @@ Most Affected:
 ![Mortality](img/mort_top.png)  
 ![Recovered](img/rec_top.png)  
   
-UK, Brazil, Canada, SK:  
+Brazil, Canada, and SK:  
 ![Mortality](img/mort_selection.png)  
 ![Recovered](img/rec_selection.png)  
   
@@ -83,52 +80,53 @@ Those regressions are based on the work compiled by [Xingyu Bian](https://www.ka
   
 It's important to make a few notes about regressions and predictions at this time, those numbers are for illustration and research only and should never replace any kind of medical or governmental information you may receive. It's also important to note that the veracity of the analyzed data is questionable so predictions may have a huge distortion when compared to reality.
   
-SVM - Support Vector Machine Regressor:  
-![svm](https://i.imgur.com/6kkQKLk.png)
+**SVM - Support Vector Machine Regressor:**  
+![svm](img/svm_prediction.png)
   
     SVM future predictions:
-    {('04/06/2020', 1529832.0),
-    ('04/07/2020', 1674117.0),
-    ('04/08/2020', 1830254.0),
-    ('04/09/2020', 1999043.0),
-    ('04/10/2020', 2181328.0),
-    ('04/11/2020', 2377996.0),
-    ('04/12/2020', 2589980.0),
-    ('04/13/2020', 2818262.0),
-    ('04/14/2020', 3063873.0),
-    ('04/15/2020', 3327896.0)}
+    {('04/11/2020', 1804292.0),
+    ('04/12/2020', 1897045.0),
+    ('04/13/2020', 1988870.0),
+    ('04/14/2020', 2079155.0),
+    ('04/15/2020', 2167242.0),
+    ('04/16/2020', 2252429.0),
+    ('04/17/2020', 2333965.0),
+    ('04/18/2020', 2411050.0),
+    ('04/19/2020', 2482835.0),
+    ('04/20/2020', 2548419.0)}
 
   
-Polynomial Regression:  
-![Pol_reg](https://i.imgur.com/WH0jcZH.png)
+**Polynomial Regression:**  
+![Pol_reg](img/polynomial_regression.png)
   
     Polynomial regression future predictions:
-    {('04/06/2020', 1375507.0),
-    ('04/07/2020', 1465726.0),
-    ('04/08/2020', 1554374.0),
-    ('04/09/2020', 1640001.0),
-    ('04/10/2020', 1720946.0),
-    ('04/11/2020', 1795317.0),
-    ('04/12/2020', 1860973.0),
-    ('04/13/2020', 1915507.0),
-    ('04/14/2020', 1956221.0),
-    ('04/15/2020', 1980109.0)}
+    {('04/11/2020', 1873522.0),
+    ('04/12/2020', 1991708.0),
+    ('04/13/2020', 2114295.0),
+    ('04/14/2020', 2241337.0),
+    ('04/15/2020', 2372885.0),
+    ('04/16/2020', 2508991.0),
+    ('04/17/2020', 2649707.0),
+    ('04/18/2020', 2795084.0),
+    ('04/19/2020', 2945176.0),
+    ('04/20/2020', 3100032.0)}
 
   
-Polynomial Baysian Ridge Regression:  
-![Pol_Bay_Rid](https://i.imgur.com/VmWzN0o.png)  
+**Polynomial Baysian Ridge Regression:**  
+![Pol_Bay_Rid](img/polynomial_bayesian_ridge_regression.png)  
   
     Ridge regression future predictions:
-    {('04/06/2020', 1319525.0),
-    ('04/07/2020', 1392158.0),
-    ('04/08/2020', 1459858.0),
-    ('04/09/2020', 1520790.0),
-    ('04/10/2020', 1572883.0),
-    ('04/11/2020', 1613815.0),
-    ('04/12/2020', 1640992.0),
-    ('04/13/2020', 1651531.0),
-    ('04/14/2020', 1642238.0),
-    ('04/15/2020', 1609590.0)}
+    {('04/11/2020', 1881960.0),
+    ('04/12/2020', 2002451.0),
+    ('04/13/2020', 2127639.0),
+    ('04/14/2020', 2257592.0),
+    ('04/15/2020', 2392375.0),
+    ('04/16/2020', 2532057.0),
+    ('04/17/2020', 2676703.0),
+    ('04/18/2020', 2826383.0),
+    ('04/19/2020', 2981162.0),
+    ('04/20/2020', 3141108.0)}
+
 
 
 _____
@@ -205,6 +203,9 @@ _____
 ![WHO Tweet](https://i.imgur.com/vndyBbH.png)
   
 [Late Asymptomatic Cases Reporting](https://www.cnn.com/2020/03/31/asia/china-asymptomatic-coronavirus-cases/index.html)  
+
+Total confirmed cases after 500 cases, China:  
+![Confirmed Cases](img/conf_china.png)  
   
 **Italy** is the second country to have extremely high numbers of infections, it started after China's lockdown and quarantine procedures while WHO was telling the situation was under control. Since they were the first country to be heavily hit after China, their [healthcare system couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and was quickly overwhelmed by cases. Italy is, for now, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.
   
