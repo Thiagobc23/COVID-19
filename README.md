@@ -37,7 +37,7 @@ Total confirmed cases after 500 cases, China:
 Total confirmed cases after 500 cases, Most affected countries:  
 ![Confirmed Cases](https://i.imgur.com/vsdQG1t.png)  
   
-UK, Brazil, Canada, and South Korea  
+Brazil, Canada, and South Korea  
 ![Confirmed Cases](https://i.imgur.com/cS05UKS.png)  
   
 ## Mortality Rates
@@ -231,9 +231,9 @@ More:
   
 **Canada**  
 Cases overview:  
-![Canada Cases](https://i.imgur.com/MmojRKN.png)  
+![Canada Cases](img/overview_canada.png)  
   
-![Cadana Testing](https://i.imgur.com/M9mYn1h.png)
+![Cadana Testing](img/testing_canada.png)
   
 ## More    
 Besides the most affected countries, I want to keep track of South Korea which is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a track record of transparent release of data and information, and Brazil which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
