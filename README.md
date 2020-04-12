@@ -23,8 +23,8 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
 [World Map - Time series/ Animated](img/map_timeseries.mp4)  
 ![World Map, 04-09-2020](img/map.png)  
   
-[Confirmed Cases - Time series/ Animated](https://imgur.com/erqFbmF)  
-![Confirmed Cases, 04-09-2020](img/rank_timeseries.mp4)  
+[Confirmed Cases - Time series/ Animated](img/rank_timeseries.mp4))  
+![Confirmed Cases, 04-09-2020](img/rank.png)  
   
 # Confirmed Cases  
 
@@ -80,54 +80,17 @@ Those regressions are based on the work compiled by [Xingyu Bian](https://www.ka
 It's important to make a few notes about regressions and predictions at this time, those numbers are for illustration and research only and should never replace any kind of medical or governmental information you may receive. It's also important to note that the veracity of the analyzed data is questionable so predictions may have a huge distortion when compared to reality.
   
 **SVM - Support Vector Machine Regressor:**  
-![svm](img/svm_prediction.png)
-  
-    SVM future predictions:
-    {('04/11/2020', 1804292.0),
-    ('04/12/2020', 1897045.0),
-    ('04/13/2020', 1988870.0),
-    ('04/14/2020', 2079155.0),
-    ('04/15/2020', 2167242.0),
-    ('04/16/2020', 2252429.0),
-    ('04/17/2020', 2333965.0),
-    ('04/18/2020', 2411050.0),
-    ('04/19/2020', 2482835.0),
-    ('04/20/2020', 2548419.0)}
-
+![svm](img/svm_prediction.png)  
+![svm_txt](img/svm_prediction_txt.png)  
   
 **Polynomial Regression:**  
 ![Pol_reg](img/polynomial_regression.png)
-  
-    Polynomial regression future predictions:
-    {('04/11/2020', 1873522.0),
-    ('04/12/2020', 1991708.0),
-    ('04/13/2020', 2114295.0),
-    ('04/14/2020', 2241337.0),
-    ('04/15/2020', 2372885.0),
-    ('04/16/2020', 2508991.0),
-    ('04/17/2020', 2649707.0),
-    ('04/18/2020', 2795084.0),
-    ('04/19/2020', 2945176.0),
-    ('04/20/2020', 3100032.0)}
-
+![Pol_reg_txt](img/polynomial_regression_txt.png)
   
 **Polynomial Baysian Ridge Regression:**  
 ![Pol_Bay_Rid](img/polynomial_bayesian_ridge_regression.png)  
+![Pol_Bay_Rid_txt](img/polynomial_bayesian_ridge_regression_txt.png)  
   
-    Ridge regression future predictions:
-    {('04/11/2020', 1881960.0),
-    ('04/12/2020', 2002451.0),
-    ('04/13/2020', 2127639.0),
-    ('04/14/2020', 2257592.0),
-    ('04/15/2020', 2392375.0),
-    ('04/16/2020', 2532057.0),
-    ('04/17/2020', 2676703.0),
-    ('04/18/2020', 2826383.0),
-    ('04/19/2020', 2981162.0),
-    ('04/20/2020', 3141108.0)}
-
-
-
 _____
 # Patients Info 
 
