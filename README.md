@@ -20,10 +20,10 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
   
 # Overview  
   
-[World Map - Time series/ Animated](img/map_timeseries.mp4)  
+![World Map - Time series/ Animated](img/map_timeseries.gif)  
 ![World Map, 04-09-2020](img/map.png)  
   
-[Confirmed Cases - Time series/ Animated](img/rank_timeseries.mp4))  
+![Confirmed Cases - Time series/ Animated](img/rank_timeseries.gif)  
 ![Confirmed Cases, 04-09-2020](img/rank.png)  
   
 # Confirmed Cases  
@@ -197,7 +197,7 @@ Cases overview:
   
 ![Cadana Testing](img/testing_canada.png)  
   
-**South Korea** is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a track record of transparent release of data and information.  
+**South Korea** is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a [great record](https://www.youtube.com/watch?v=BE-cA4UK07c&feature=youtu.be) of transparent release of data and information.  
   
 **Brazil** which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
 
