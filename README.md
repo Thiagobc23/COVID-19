@@ -97,27 +97,26 @@ _____
 Based on a sample of [South Korea Cases](https://www.kaggle.com/kimjihoo/coronavirusdataset) - (Blue), and a sample of [Canada Cases](https://www.kaggle.com/roche-data-science-coalition/uncover), [More Canada](https://github.com/ishaberry/Covid19Canada) - (Orange Red)  
   
 Age Distribution - All Patients  
-![Age Distribution - All Patients](https://i.imgur.com/2xlugIX.png)   
+![Age Distribution - All Patients](img/age_dist.png)  
+  
 Age Distribution - Released Patients  
-![Age Distribution - Released Patients](https://i.imgur.com/torXsJ3.png)  
-Age Distribution - Deceased Patients  
-![Age Distribution - Deceased Patients](https://i.imgur.com/ehnV2we.png)  
+![Recovery](img/recovery_rate.png)  
   
 Histogram of patients by days until release  
 (days between confirmed case and release)  
   
-![All](https://i.imgur.com/20E3zk9.png)    
+![release](img/dist_release.png)    
 
 Histogram of patients by days until fatality  
 (days between the confirmed case and deceased date)  
 
-![All](https://i.imgur.com/A1GWMXl.png)
+![fatality](img/dist_fatality.png)
   
 _____
 
 # Personal Notes on Countries
 
-**China** is the epicenter of the disease, where it originated and started spreading. It has been keeping a very bad record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and are treating the pandemic. In addition to that, at the start of the pandemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by ensuring other nations that China was doing a great job containing the virus. This series of misleading actions and grave mistakes led to the second extremely hit country, Italy.  
+**China** is the epicenter of the disease, where it originated and started spreading. It has been keeping a very bad record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and are treating the pandemic. In addition to that, at the start of the pandemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of misleading actions and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to the second extremely hit country, Italy.  
   
 ![WHO Tweet](https://i.imgur.com/vndyBbH.png)  
   
@@ -126,6 +125,8 @@ _____
 Total confirmed cases after 500 cases, China:  
 ![Confirmed Cases](img/conf_china.png)  
   
+After all those issues and due the situation we are now, it's clear that the World Health Organization shouldn't be so [politized](https://www.youtube.com/watch?v=UlCYFh8U2xM).
+
 **Italy** is the second country to have extremely high numbers of infections, it started after China's lockdown and quarantine procedures while WHO was telling the situation was under control. Since they were the first country to be heavily hit after China, their [healthcare system couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and was quickly overwhelmed by cases. Italy is, for now, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.  
   
 Infections, recoveries, deceased, and testing numbers by region:  
