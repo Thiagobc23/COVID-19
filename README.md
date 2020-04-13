@@ -21,10 +21,8 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
 # Overview  
   
 ![World Map - Time series/ Animated](img/map_timeseries.gif)  
-![World Map, 04-09-2020](img/map.png)  
   
 ![Confirmed Cases - Time series/ Animated](img/rank_timeseries.gif)  
-![Confirmed Cases, 04-09-2020](img/rank.png)  
   
 # Confirmed Cases  
 
