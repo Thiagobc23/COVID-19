@@ -19,10 +19,12 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 This is mostly to keep a personal record of what is going on, I'm trying to use data and visualizations to record my current perception of the pandemic. Please take in mind that those are my opinions, I've tried to source all my assumptions and views, but still, there are many ways of looking at the same data or the same reports, articles, news, etc...
   
 # Overview  
+
+![World Map - Time series/ Animated](img/map.png)   
+[World Map - Time series/ Animated](img/map_timeseries.gif)  
   
-![World Map - Time series/ Animated](img/map_timeseries.gif)  
-  
-![Confirmed Cases - Time series/ Animated](img/rank_timeseries.gif)  
+![Confirmed Cases - Time series/ Animated](img/rank.png)  
+[Confirmed Cases - Time series/ Animated](img/rank_timeseries.gif)  
   
 # Confirmed Cases  
 
