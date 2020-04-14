@@ -72,6 +72,10 @@ Some timelines of the measures taken to contain the infections.
 **World-wide** lockdown measures, inspired by [this](https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3#china-implemented-what-was-then-the-largest-quarantine-in-human-history-to-try-to-contain-the-coronavirus-locking-down-at-least-16-cities-at-the-end-of-january-14) Business Insider article  
 ![world_time](img/world_timeline.png)  
   
+**Fiscal Responses** taken by some major economies:
+![Fiscal Response](img/fiscal_measures.png)  
+
+*Data From [Bruegel](https://www.bruegel.org/publications/datasets/covid-national-dataset/)
 _____
 # Regressions
 
@@ -155,6 +159,14 @@ Cases overview:
   
 ![Cadana Testing](img/testing_canada.png)  
   
+_British Columbia:_  
+
+![BC - Active Cases](img/bc_active.png)  
+  
+BC, Population Distribution by Age:  
+![BC - Age Distribution](img/bc_age.png)  
+
+
 **South Korea** is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a [great record](https://www.youtube.com/watch?v=BE-cA4UK07c&feature=youtu.be) of transparent release of data and information.  
   
 **Brazil** which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
@@ -190,7 +202,9 @@ Forecast competition [w1](https://www.kaggle.com/c/covid19-global-forecasting-we
 [The international journal of science / 19 March 2020](https://media.nature.com/original/magazine-assets/d41586-020-00772-4/d41586-020-00772-4.pdf)  
 [Economics in the Time of COVID-19](http://viet-studies.net/kinhte/COVID19_CPER.pdf), edited by Richard Baldwin and Beatrice Weder di Mauro.  
 [Economic Strategy Group Statement - COVID-19](https://economicstrategygroup.org/resource/economic-strategy-group-statement-covid19/)  
-  
+[Fiscal response to the economic fallout](https://www.bruegel.org/publications/datasets/covid-national-dataset/)
+
+
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
 [Cambridge University: Coronavirus Vaccine](https://youtu.be/UPkVbZ9X_jQ)  
