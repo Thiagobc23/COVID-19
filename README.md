@@ -25,8 +25,25 @@ This is mostly to keep a personal record of what is going on, I'm trying to use 
   
 ![Confirmed Cases - Time series/ Animated](img/rank.png)  
 [Confirmed Cases - Time series/ Animated](img/rank_timeseries.gif)  
+
+# Understanding The Coronavirus Disease 2019  
   
-# Confirmed Cases  
+    Other Names:
+    * Coronavirus
+    * COVID
+    * 2019-nCoV acute respiratory disease
+    * Novel coronavirus pneumonia
+    * SARS-CoV-2
+
+## Transmission
+  
+The transmission is still being studied but we already know some things about it. It spreads by droplets or direct contact, it has an incubation period of 2-14 days, and it's possible that asymptomatic carriers can transmit the virus.
+[1](https://www.sciencedirect.com/science/article/pii/S0924857920300674) 
+
+There are lots of talks around this topic and lots of misinformation too, talks about it being transmitted through 5g networks, or that if you eat or do something you won't get it, and so on.  
+WHO has a section in their [website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) to demystify those claims.  
+
+## Confirmed Cases  
 
 Total confirmed cases after 500 cases, Most affected countries:  
 ![Confirmed Cases](img/conf_top.png)  
@@ -35,6 +52,18 @@ Total confirmed cases after 500 cases, Most affected countries:
 Brazil, Canada, and South Korea  
 ![Confirmed Cases](img/conf_selection.png)  
 ![Active](img/active_selection.png)  
+  
+## Severity
+
+COVID-19 patients most commonly display respiratory symptoms, the virus was firstly identified by an outbreak of pneumonia cases after all. But not only that, the disease has been proved to cause digestive symptoms, cardiovascular damage, neurological manifestations, and possible exposure to the liver. Most of those were only registered in a few cases, with even fewer cases developing symptoms hard enough to cause a fatality. [1](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf), [2](https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3w4wcTno9A798v1fuYbALPLUHU5dNsVNVFKDc6GW-6yED2mXcyxrJY7dc), [3](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3544840), 
+[4](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30057-1/fulltext)
+  
+ Mostly the fatalities are happening because of respiratory symptoms, with a higher probability of happening to patients in higher age or with pre-existing health conditions. [1](https://www.sciencedirect.com/science/article/pii/S0140673620305663), [2](https://www.youtube.com/watch?v=BuzP-uLctYE)
+
+>The fact that many patients deteriorate to a critical state and require intensive care for significantly more than one week is particularly concerning. Basic epidemiological models of the spread of the SARS-CoV-2 virus suggest that owing to its contagiousness and the lack of immunity in the population, 40−70% of the population could become infected unless strong measures are taken. [Swiss Medical Weekly](https://smw.ch/article/doi/smw.2020.20225?fbclid=IwAR2MDart-7WJ1IotWGBszlmHl6JCSgqVQexw2iPqOlnMvZQ1XSpjsV1PNaY)
+
+On top of all that, we are still trying to figure out much of the treatment, and the biggest issue with the disease is currently the speed it's spreading and our limited resources in terms of healthcare.
+[1](https://youtu.be/bp5RMutCNoI)
   
 ## Mortality Rates
   
@@ -59,23 +88,46 @@ Brazil, Canada, and SK:
 ![Recovered](img/rec_selection.png)  
   
 _____
-# Timelines
 
-Some timelines of the measures taken to contain the infections.  
+## Suppression and Mitigation
+
+The impacts on our society will take decades to repair, deaths, traumas, low morale of citizens and a struggling economy are expected to follow the virus. To contain those we need to work on mitigation measures, those measures are being taken around the world in the most different shapes and forms, but what actually works in a situation like this?  
+
+One thing is clear, doing nothing isn't helpful in anyways and will cause an even higher impact on the society and its economy.[1](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30567-5.pdf) 
   
-**Italy** tried to contain the outbreak with wide isolation measures:  
+>"Until an efficacious and safe vaccine becomes available − with even the most optimistic estimates putting this at 9 to 18 months − the only way to prevent the above scenario is to control the spread of SARS-CoV-2. While strict social distancing measures are necessary, nobody can imagine such measures being enforceable for extended periods of time" [Swiss Medical Weekly](https://smw.ch/article/doi/smw.2020.20225?fbclid=IwAR2MDart-7WJ1IotWGBszlmHl6JCSgqVQexw2iPqOlnMvZQ1XSpjsV1PNaY)  
+  
+The [Imperial College COVID-19 Response Team](https://spiral.imperial.ac.uk/bitstream/10044/1/77482/8/2020-03-16-COVID19-Report-9.pdf) has described a nice categorization of the measures taken by countries and regions, where countries are either going for suppression or mitigation measures. Both solutions require extensive use of non-pharmaceutical interventions (NPIs), which comes to proper hygiene, social distancing, and others intended to reduce transmission.  
+
+>**Suppression**. Here the aim is to reduce the reproduction number (the average number of secondary cases each case generates), R, to below 1 and hence to reduce case numbers to low levels or (as for SARS or Ebola) eliminate human-to-human transmission. The main challenge of this approach is that NPIs (and drugs, if available) need to be maintained – at least intermittently - for as long as the virus is circulating in the human population, or until a vaccine becomes available. In the case of COVID-19, it will be at least 12-18 months before a vaccine is available. Furthermore, there is no guarantee that initial vaccines will have high efficacy.
+
+>**Mitigation**. Here the aim is to use NPIs (and vaccines or drugs, if available) not to interrupt transmission completely, but to reduce the health impact of an epidemic, akin to the strategy adopted by some US cities in 1918, and by the world more generally in the 1957, 1968 and 2009 influenza pandemics. In the 2009 pandemic, for instance, early supplies of vaccine were targeted at individuals with pre-existing medical conditions which put them at risk of more severe disease. In this scenario, population immunity builds up through the epidemic, leading to an eventual rapid decline in case numbers and transmission dropping to low levels.  
+  
+Both paths will lead to tremendous losses, by the actions we're watching from other countries we can note that mitigation measures only work with a highly efficient structure and when adopted in the early stages of the contamination, those were seen in South Korea, Taiwan, and Singapore. While some countries failed to maintain mitigation measures such as the UK, others barely had time to it such as Italy, France, and Spain. Those countries that couldn't handle the situation with mitigation measures quickly pursued suppression measures, with tighter restrictions on the population and limitations to movement, commerce, and production.  
+  
+**Italy** tried to contain the outbreak with wide suppression measures:  
 ![Italy_time](img/italy_timeline.png)  
   
-**South Korea** is containing the infections with targeted and clustered isolations and lots of testing.  
-![SK_time](img/sk_timeline.png)
+Methods such as **case isolation and contact tracing** can be very helpful, especially if done at the start of the spread, but as the infection goes undetected it's harder to contain it through contact tracing. [1](https://www.sciencedirect.com/science/article/pii/S2214109X20300747)
+  
+**South Korea** is containing the infections with targeted and clustered isolations, lots of testing, and social distancing.  
+![SK_time](img/sk_timeline.png)  
+  
+Some even more expensive measures such as testing and isolating asymptomatic cases were already tested and proved to be helpful too in containing the virus. Unfortunately, the resources needed to provide such an amount of testing may be too far from reality to many places.    
+  
+>In an open letter to the authorities in the Tuscany region,1 Romagnani wrote that the great majority of people infected with COVID-19—50-75%—were asymptomatic, but represented “a formidable source” of contagion. [The BMJ](https://www.regenhealthsolutions.info/wp-content/uploads/2020/04/Covid-19-identifying-and-isolating-asymptomatic.pdf)
+
+Another very difficult decision when working with targeted isolation or any other kind of isolation is when to stop? Since there isn't a single test reliable enough to decide on de-isolation many factors need to be considered, those can be made even harder when considering asymptomatic cases, dual infections, and other issues imposed by the scalability of collecting those indicators.  
+  
+>"No single indicator may be effectively used to decide on de-isolation of a suspect case. In our series of positive cases, samples from one suspect case only returned positive on the fifth repeated sample (nasopharyngeal swab), on the seventh day of clinical illness. Current evidence suggests that transmission of COVID-19 may be possible even from asymptomatic contacts, and polymerase chain reaction (PCR) testing may not return positive initially." [National Centre for Infectious
+Diseases - Singapore](https://www.med.uminho.pt/pt/covid19/Sade%20Pblica/Tay-2020-De-isolating%20COVID-19%20Suspect%20Cases_.pdf)
   
 **World-wide** lockdown measures, inspired by [this](https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3#china-implemented-what-was-then-the-largest-quarantine-in-human-history-to-try-to-contain-the-coronavirus-locking-down-at-least-16-cities-at-the-end-of-january-14) Business Insider article  
 ![world_time](img/world_timeline.png)  
   
-**Fiscal Responses** taken by some major economies:
+**Fiscal Responses** taken by some major economies, according to [Bruegel](https://www.bruegel.org/publications/datasets/covid-national-dataset/):  
 ![Fiscal Response](img/fiscal_measures.png)  
 
-*Data From [Bruegel](https://www.bruegel.org/publications/datasets/covid-national-dataset/)
 _____
 # Regressions
 
