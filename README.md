@@ -97,27 +97,27 @@ One thing is clear, doing nothing isn't helpful in anyways and will cause an eve
   
 >"Until an efficacious and safe vaccine becomes available − with even the most optimistic estimates putting this at 9 to 18 months − the only way to prevent the above scenario is to control the spread of SARS-CoV-2. While strict social distancing measures are necessary, nobody can imagine such measures being enforceable for extended periods of time" [Swiss Medical Weekly](https://smw.ch/article/doi/smw.2020.20225?fbclid=IwAR2MDart-7WJ1IotWGBszlmHl6JCSgqVQexw2iPqOlnMvZQ1XSpjsV1PNaY)  
   
-The [Imperial College COVID-19 Response Team](https://spiral.imperial.ac.uk/bitstream/10044/1/77482/8/2020-03-16-COVID19-Report-9.pdf) has described a nice categorization of the measures taken by countries and regions, where countries are either going for suppression or mitigation measures. Both solutions require extensive use of non-pharmaceutical interventions (NPIs), which comes to proper hygiene, social distancing, and others intended to reduce transmission.  
+The [Imperial College COVID-19 Response Team](https://spiral.imperial.ac.uk/bitstream/10044/1/77482/8/2020-03-16-COVID19-Report-9.pdf) has described a nice categorization of the measures taken by countries and regions, where they are either going for suppression or mitigation measures. Both solutions require extensive use of non-pharmaceutical interventions (NPIs), which comes to proper hygiene, social distancing, and others intended to reduce transmission.  
 
 >**Suppression**. Here the aim is to reduce the reproduction number (the average number of secondary cases each case generates), R, to below 1 and hence to reduce case numbers to low levels or (as for SARS or Ebola) eliminate human-to-human transmission. The main challenge of this approach is that NPIs (and drugs, if available) need to be maintained – at least intermittently - for as long as the virus is circulating in the human population, or until a vaccine becomes available. In the case of COVID-19, it will be at least 12-18 months before a vaccine is available. Furthermore, there is no guarantee that initial vaccines will have high efficacy.
 
 >**Mitigation**. Here the aim is to use NPIs (and vaccines or drugs, if available) not to interrupt transmission completely, but to reduce the health impact of an epidemic, akin to the strategy adopted by some US cities in 1918, and by the world more generally in the 1957, 1968 and 2009 influenza pandemics. In the 2009 pandemic, for instance, early supplies of vaccine were targeted at individuals with pre-existing medical conditions which put them at risk of more severe disease. In this scenario, population immunity builds up through the epidemic, leading to an eventual rapid decline in case numbers and transmission dropping to low levels.  
   
-Both paths will lead to tremendous losses, by the actions we're watching from other countries we can note that mitigation measures only work with a highly efficient structure and when adopted in the early stages of the contamination, those were seen in South Korea, Taiwan, and Singapore. While some countries failed to maintain mitigation measures such as the UK, others barely had time to it such as Italy, France, and Spain. Those countries that couldn't handle the situation with mitigation measures quickly pursued suppression measures, with tighter restrictions on the population and limitations to movement, commerce, and production.  
+Both paths will lead to tremendous losses, by the actions we're watching from other countries we can note that mitigation measures only work with a highly efficient structure and when adopted in the early stages of the contamination, those were seen in South Korea, Taiwan, and Singapore. While some countries failed to maintain mitigation measures such as the UK, others barely had time to it such as Italy, France, and Spain. Those countries that couldn't handle the situation with mitigation measures quickly pursued suppression measures, with tighter restrictions on the population and limitations to movement, commerce, and production of "non-essential" goods.  
   
-**Italy** tried to contain the outbreak with wide suppression measures:  
+**Italy** is trying to contain the outbreak with wide suppression measures:  
 ![Italy_time](img/italy_timeline.png)  
   
 Methods such as **case isolation and contact tracing** can be very helpful, especially if done at the start of the spread, but as the infection goes undetected it's harder to contain it through contact tracing. [1](https://www.sciencedirect.com/science/article/pii/S2214109X20300747)
   
-**South Korea** is containing the infections with targeted and clustered isolations, lots of testing, and social distancing.  
+**South Korea** is containing the infections with targeted and clustered isolations, lots of testing, social distancing, and NPIs.  
 ![SK_time](img/sk_timeline.png)  
   
-Some even more expensive measures such as testing and isolating asymptomatic cases were already tested and proved to be helpful too in containing the virus. Unfortunately, the resources needed to provide such an amount of testing may be too far from reality to many places.    
+Some even more expensive measures such as testing a local population and isolating asymptomatic cases were already tested and also proved to be helpful in containing the virus. Unfortunately, the resources needed to provide such an amount of testing may be too far from reality to many places.    
   
 >In an open letter to the authorities in the Tuscany region,1 Romagnani wrote that the great majority of people infected with COVID-19—50-75%—were asymptomatic, but represented “a formidable source” of contagion. [The BMJ](https://www.regenhealthsolutions.info/wp-content/uploads/2020/04/Covid-19-identifying-and-isolating-asymptomatic.pdf)
 
-Another very difficult decision when working with targeted isolation or any other kind of isolation is when to stop? Since there isn't a single test reliable enough to decide on de-isolation many factors need to be considered, those can be made even harder when considering asymptomatic cases, dual infections, and other issues imposed by the scalability of collecting those indicators.  
+Another very difficult decision when working with targeted isolation or any other kind of isolation is when to stop? Since there isn't a single test reliable enough to decide on de-isolation many factors need to be considered, those can be made even harder when we account for asymptomatic cases, dual infections, and other issues imposed by the scalability of collecting those indicators.  
   
 >"No single indicator may be effectively used to decide on de-isolation of a suspect case. In our series of positive cases, samples from one suspect case only returned positive on the fifth repeated sample (nasopharyngeal swab), on the seventh day of clinical illness. Current evidence suggests that transmission of COVID-19 may be possible even from asymptomatic contacts, and polymerase chain reaction (PCR) testing may not return positive initially." [National Centre for Infectious
 Diseases - Singapore](https://www.med.uminho.pt/pt/covid19/Sade%20Pblica/Tay-2020-De-isolating%20COVID-19%20Suspect%20Cases_.pdf)
@@ -150,8 +150,10 @@ It's important to make a few notes about regressions and predictions at this tim
 _____
 # Patients Info 
 
-Based on a sample of [South Korea Cases](https://www.kaggle.com/kimjihoo/coronavirusdataset) - (Blue), and a sample of [Canada Cases](https://www.kaggle.com/roche-data-science-coalition/uncover), [More Canada](https://github.com/ishaberry/Covid19Canada) - (Orange Red)  
+Three small samples of patients were used for building the following visualizations. [1](https://www.kaggle.com/kimjihoo/coronavirusdataset), [2](https://www.kaggle.com/roche-data-science-coalition/uncover), [3](https://github.com/ishaberry/Covid19Canada).  
+It's Important to mention the results displayed by those distributions depend on many factors, and this distribution only represents a random sample of patients at random times and hospitals. Things like the kind of treatment, age, pre-existing health conditions, and many others will directly affect those numbers. So by any means, this should be considered current or accurate.  
   
+
 Age Distribution - All Patients  
 ![Age Distribution - All Patients](img/age_dist.png)  
   
