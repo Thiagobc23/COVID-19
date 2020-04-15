@@ -43,16 +43,16 @@ The transmission is still being studied but we already know some things about it
 There are lots of talks around this topic and lots of misinformation too, talks about it being transmitted through 5g networks, or that if you eat or do something you won't get it, and so on.  
 WHO has a section in their [website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) to demystify those claims.  
 
-## Confirmed Cases  
+### Confirmed Cases  
 
-Total confirmed cases after 500 cases, Most affected countries:  
+**U.S. and the World:**  
+![Confirmed Cases](img/conf_us.png)  
+![Active](img/active_us.png) 
+
+**Europe:**  
 ![Confirmed Cases](img/conf_top.png)  
 ![Active](img/active_top.png)  
-  
-Brazil, Canada, and South Korea  
-![Confirmed Cases](img/conf_selection.png)  
-![Active](img/active_selection.png)  
-  
+    
 ## Severity
 
 COVID-19 patients most commonly display respiratory symptoms, the virus was firstly identified by an outbreak of pneumonia cases after all. But not only that, the disease has been proved to cause digestive symptoms, cardiovascular damage, neurological manifestations, and possible exposure to the liver. Most of those were only registered in a few cases, with even fewer cases developing symptoms hard enough to cause a fatality. [1](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf), [2](https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3w4wcTno9A798v1fuYbALPLUHU5dNsVNVFKDc6GW-6yED2mXcyxrJY7dc), [3](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3544840), 
@@ -75,18 +75,16 @@ The [other methods](https://academic.oup.com/aje/article/162/5/479/82647) I'm us
   
 To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
   
-China and the World:  
-![Mortality](img/mort_china.png)  
-![Recovered](img/rec_china.png)  
-  
-Most Affected:  
+
+
+**Europe:**  
 ![Mortality](img/mort_top.png)  
 ![Recovered](img/rec_top.png)  
   
-Brazil, Canada, and SK:  
-![Mortality](img/mort_selection.png)  
-![Recovered](img/rec_selection.png)  
-  
+**China, SK, and Iran:**  
+![Mortality](img/mort_china.png)  
+![Recovered](img/rec_china.png)  
+    
 _____
 
 ## Suppression and Mitigation
@@ -174,31 +172,45 @@ _____
 
 # Personal Notes on Countries
 
-**China** is the epicenter of the disease, where it originated and started spreading. It has been keeping a very bad record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and are treating the pandemic. In addition to that, at the start of the pandemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of misleading actions and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to the second extremely hit country, Italy.  
-  
-![WHO Tweet](https://i.imgur.com/vndyBbH.png)  
-  
-[Late Asymptomatic Cases Reporting](https://www.cnn.com/2020/03/31/asia/china-asymptomatic-coronavirus-cases/index.html)  
-  
-Total confirmed cases after 500 cases, China:  
-![Confirmed Cases](img/conf_china.png)  
-  
-After all those issues and due the situation we are now, it's clear that the World Health Organization shouldn't be so [politized](https://www.youtube.com/watch?v=UlCYFh8U2xM).
-
-**Italy** is the second country to have extremely high numbers of infections, it started after China's lockdown and quarantine procedures while WHO was telling the situation was under control. Since they were the first country to be heavily hit after China, their [healthcare system couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and was quickly overwhelmed by cases. Italy is, for now, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.  
-  
-Infections, recoveries, deceased, and testing numbers by region:  
-  
-*Note that the time for concluding a test and receiving its results may vary, so the results showed in one day correspond to tests made earlier and not necessarily on that same day.  
-  
-<img src="img/Italy_prog.gif" alt="drawing" width="500"/>  
-  
 **United States** is currently the country with most cases, it started to accumulate cases really soon, but only recognized the problem on the late march when the many epidemics spread trought the country couldn't be contained anymore. Most of the mistakes the US committed were due to poor leadership and denialism of what was happening. Apparently they recently realized the impacts this crisis will bring to the economy and began to heavily test and prepare for the ongoing crisis.  
   
 [Trump Tweet](https://i.imgur.com/e6JNRGi.png)  
 [Trump on COVID-19](https://twitter.com/i/status/1242193904553865216)  
 [NY - End of March](https://www.youtube.com/watch?v=bE68xVXf8Kw)  
 [U.S. reluctant to call national lockdown](https://youtu.be/L1XIXssA1xg)  
+  
+**U.S. and the World:**  
+![Mortality](img/mort_us.png)  
+![Recovered](img/rec_us.png)  
+
+**China** is the epicenter of the disease, where it originated and started spreading. It has been keeping a very bad record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and are treating the pandemic. In addition to that, at the start of the pandemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of misleading actions and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to the second extremely hit country, Italy.  
+  
+![WHO Tweet](https://i.imgur.com/vndyBbH.png)  
+  
+[Late Asymptomatic Cases Reporting](https://www.cnn.com/2020/03/31/asia/china-asymptomatic-coronavirus-cases/index.html)  
+  
+After all those issues and due the situation we are now, it's clear that the World Health Organization shouldn't be so [politized](https://www.youtube.com/watch?v=UlCYFh8U2xM).
+  
+**South Korea** is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a [great record](https://www.youtube.com/watch?v=BE-cA4UK07c&feature=youtu.be) of the transparent release of data and information.  
+  
+**Iran** has also went in a denialist path, it tried to change the narrative but still is having lots of problems involving religious and scientific conflicts inflated by misinformation campaigns during the pandemic.  
+  
+[CBC Coverage](https://www.youtube.com/watch?v=_4Bt29_-oFw)  
+[NY Times Coverage](https://www.youtube.com/watch?v=lm2UFynetJw)  
+  
+Total confirmed cases after 500 cases, China, SK, and Iran:  
+![Confirmed Cases](img/conf_china.png)  
+![Active Cases](img/active_china.png)  
+  
+**United Kingdom** was reluctant to start preparations and enforce containment measures at the beginning of the crisis, they considered [herd-immunity](https://www.youtube.com/watch?v=hJBTV8anp-8) as an option but eventually recognized their mistakes and started a [nationwide lockdown](https://www.youtube.com/watch?v=LlJIwTd9fqI) 4 days before announcing the [PM has tested positive](https://www.cbc.ca/news/world/britain-pm-johnson-covid-19-1.5512020) for the virus. Their current situation is not good, they had also experienced a lack of resources, more specifically of [tests](https://www.youtube.com/watch?v=96_4FfXA94c).  
+
+**Italy** was the second country to have extremely high numbers of infections, it started after China's lockdown and quarantine procedures while WHO was telling the situation was under control. Since they were the first country to be heavily hit after China, their [healthcare system couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and was quickly overwhelmed by cases. Italy is, for now, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.  
+  
+Infections, recoveries, deceased, and testing numbers by region:  
+  
+*Note that the time for concluding a test and receiving its results may vary, so the results showed in one day correspond to tests made earlier and not necessarily on that same day.  
+  
+<img src="img/Italy_prog.gif" alt="drawing" width="500"/>  
   
 **Spain** was heavily hit with the virus shortly after Italy, they are currently the third country with most cases of the disease and the second country with the most fatalities. They have been struggling with resource shortages, and the overflow of infected patients have [reportedly](https://www.youtube.com/watch?v=i4DngwmTzIA) overwhelmed their systems.  
   
@@ -219,20 +231,18 @@ _British Columbia:_
   
 BC, Population Distribution by Age:  
 ![BC - Age Distribution](img/bc_age.png)  
-
-
-**South Korea** is an example of how to [properly deal](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe) with the epidemic and has a [great record](https://www.youtube.com/watch?v=BE-cA4UK07c&feature=youtu.be) of the transparent release of data and information.  
   
 **Brazil** which is my home country and apparently is about to become some kind of control group for a very bizarre experiment. Their position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic but other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing so the information is not completely trustworthy.  
 
-[Homeless People Risks](https://www.youtube.com/watch?v=IbgUe-YmM-E)
+[Homeless People Risks](https://www.youtube.com/watch?v=IbgUe-YmM-E)  
   
-**Iran** has also went in a denialist path, it tried to change the narrative but still is having lots of problems involving religious and scientific conflicts inflated by misinformation campaigns during the pandemic.  
-  
-[CBC Coverage](https://www.youtube.com/watch?v=_4Bt29_-oFw)  
-[NY Times Coverage](https://www.youtube.com/watch?v=lm2UFynetJw)  
-  
-**United Kingdom** was reluctant to start preparations and enforce containment measures at the beginning of the crisis, they considered [herd-immunity](https://www.youtube.com/watch?v=hJBTV8anp-8) as an option but eventually recognized their mistakes and started a [nationwide lockdown](https://www.youtube.com/watch?v=LlJIwTd9fqI) 4 days before announcing the [PM has tested positive](https://www.cbc.ca/news/world/britain-pm-johnson-covid-19-1.5512020) for the virus. Their current situation is not good, they had also experienced a lack of resources, more specifically of [tests](https://www.youtube.com/watch?v=96_4FfXA94c).  
+Brazil and Canada:  
+![Confirmed Cases](img/conf_selection.png)  
+![Active](img/active_selection.png)  
+
+Brazil and Canada, Mortality:  
+![Mortality](img/mort_selection.png)  
+![Recovered](img/rec_selection.png)  
   
 **Cuba** is being extremely helpful to many different nations, instead of sending resources such as masks and ventilators, or picking patients from overwhelmed countries Cuba is [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e).  
   
@@ -262,7 +272,7 @@ Forecast competition [w1](https://www.kaggle.com/c/covid19-global-forecasting-we
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
 [Cambridge University: Coronavirus Vaccine](https://youtu.be/UPkVbZ9X_jQ)  
-[Lessons from 1918 flu - Laurie Garrett](https://www.ted.com/talks/laurie_garrett_lessons_from_the_1918_flu?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
+[Lessons from 1918 flu - Laurie Garrett](https://www.ted.com/talks/laurie_garrett_lessons_from_the_1918_flu?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)  
 [Bill Gates: TED Talk, Next Outbreak - 2015](https://www.youtube.com/watch?v=6Af6b_wyiwI)  
 [Global Economy Impact - Al Jazeera](https://www.youtube.com/watch?v=94wGHRDHyHo)  
   
