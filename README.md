@@ -55,10 +55,10 @@ WHO has a section in their [website](https://www.who.int/emergencies/diseases/no
     
 ## Severity
 
-COVID-19 patients most commonly display respiratory symptoms, the virus was firstly identified by an outbreak of pneumonia cases after all. But not only that, the disease has been proved to cause digestive symptoms, cardiovascular damage, neurological manifestations, and possible exposure to the liver. Most of those were only registered in a few cases, with even fewer cases developing symptoms hard enough to cause a fatality. [1](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf), [2](https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3w4wcTno9A798v1fuYbALPLUHU5dNsVNVFKDc6GW-6yED2mXcyxrJY7dc), [3](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3544840), 
+COVID-19 patients most commonly display respiratory symptoms, the virus was firstly identified by an outbreak of pneumonia cases after all. But not only that, the disease has been proved to cause digestive symptoms, cardiovascular damage, neurological manifestations, and others. Most of those were only registered in a few cases, with even fewer cases developing symptoms hard enough to cause a fatality. [1](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf), [2](https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3w4wcTno9A798v1fuYbALPLUHU5dNsVNVFKDc6GW-6yED2mXcyxrJY7dc), [3](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3544840), 
 [4](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30057-1/fulltext)
   
- Mostly the fatalities are happening because of respiratory symptoms, with a higher probability of happening to patients in higher age or with pre-existing health conditions. [1](https://www.sciencedirect.com/science/article/pii/S0140673620305663), [2](https://www.youtube.com/watch?v=BuzP-uLctYE)
+ Mostly the deaths are happening because of respiratory symptoms, with a higher probability of happening to patients in higher age or with pre-existing health conditions. [1](https://www.sciencedirect.com/science/article/pii/S0140673620305663), [2](https://www.youtube.com/watch?v=BuzP-uLctYE)
 
 >The fact that many patients deteriorate to a critical state and require intensive care for significantly more than one week is particularly concerning. Basic epidemiological models of the spread of the SARS-CoV-2 virus suggest that owing to its contagiousness and the lack of immunity in the population, 40−70% of the population could become infected unless strong measures are taken. [Swiss Medical Weekly](https://smw.ch/article/doi/smw.2020.20225?fbclid=IwAR2MDart-7WJ1IotWGBszlmHl6JCSgqVQexw2iPqOlnMvZQ1XSpjsV1PNaY)
 
@@ -75,25 +75,48 @@ The [other methods](https://academic.oup.com/aje/article/162/5/479/82647) I'm us
   
 To make it simple, consider the first mortality rate you see as an underestimated number and the second as an overestimated number.   
   
-
-
 **Europe:**  
 ![Mortality](img/mort_top.png)  
-![Recovered](img/rec_top.png)  
+
   
 **China, SK, and Iran:**  
 ![Mortality](img/mort_china.png)  
-![Recovered](img/rec_china.png)  
+ 
     
 _____
 
+## Treatment
+  
+According to recomendations from WHO, the Covid-19 has mostly been treated as other viral pneumonias, with ARDS management and respiratory support.  
+Not different from the other topics discused so far this has also been a target of misinformation, lots of talks around treatements, ventilators, respirators, medicines and so on.  
+  
+In this topic most of the misinformation is beign able to spread from the lack of knowledge in the medical community. The recommended treatement proposed by WHO is not working in many cases, there are lots of hospitals trying different procedures and methods to control the symptons but still there is a huge lack of properlly conducted studies, so most of the results can't be properly reproduced by other hospitals. [1](https://www.youtube.com/watch?v=bp5RMutCNoI), [2](https://www.sciencedirect.com/science/article/pii/S0924857920300996), [3](https://www.medrxiv.org/content/10.1101/2020.04.10.20060699v1), [4](https://www.thelancet.com/action/showPdf?pii=S1473-3099%2820%2930132-8)  
+  
+We should understand that those clinical trials are required for safe reproduction of the treatment, and most importantly that those results should be analysed by doctors who will them make their decisions on how to apply them. In therapeutics for example, even without the proper results many medications are beign boosted as "cures" by politicians and the media, and this is extremelly dangerous and can bare heavy consequences. [1](https://www.sciencemag.org/news/2020/03/insane-many-scientists-lament-trump-s-embrace-risky-malaria-drugs-coronavirus), [2](https://www1.folha.uol.com.br/internacional/en/brazil/2020/04/bolsonaro-defends-chloroquine-and-resumes-clash-with-governors-and-mayors-in-televised-speech.shtml)  
+
+Journal of the American College of Emergency Physicians Open. April 7, 2020:  
+<img src="img/therapeutics_table.png" alt="therapeutics table" height="500"/>  
+[source](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12081)  
+
+Even tought those tests will take a long time until properlly concluded, peer reviewed, and reproduced in other facilities they are essential. Only by properlly documenting what was proven to work we can prepare for next waves of spread, de-isolation, and re-opening of the economy in many places.  
+    
+**Europe:**  
+![Recovered](img/rec_top.png)  
+**China, SK, and Iran:**  
+![Recovered](img/rec_china.png)  
+  
+_____  
+  
 ## Suppression and Mitigation
 
 The impacts on our society will take decades to repair, deaths, traumas, low morale of citizens and a struggling economy are expected to follow the virus. To contain those we need to work on mitigation measures, those measures are being taken around the world in the most different shapes and forms, but what actually works in a situation like this?  
+  
+**Fiscal Responses** taken by some major economies, according to [Bruegel](https://www.bruegel.org/publications/datasets/covid-national-dataset/):  
+![Fiscal Response](img/fiscal_measures.png)  
 
 One thing is clear, doing nothing isn't helpful in anyways and will cause an even higher impact on the society and its economy.[1](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30567-5.pdf) 
   
->"Until an efficacious and safe vaccine becomes available − with even the most optimistic estimates putting this at 9 to 18 months − the only way to prevent the above scenario is to control the spread of SARS-CoV-2. While strict social distancing measures are necessary, nobody can imagine such measures being enforceable for extended periods of time" [Swiss Medical Weekly](https://smw.ch/article/doi/smw.2020.20225?fbclid=IwAR2MDart-7WJ1IotWGBszlmHl6JCSgqVQexw2iPqOlnMvZQ1XSpjsV1PNaY)  
+>"Until an efficacious and safe vaccine becomes available − with even the most optimistic estimates putting this at 9 to 18 months − the only way to prevent the above scenario[*](#Severity) is to control the spread of SARS-CoV-2. While strict social distancing measures are necessary, nobody can imagine such measures being enforceable for extended periods of time" [Swiss Medical Weekly](https://smw.ch/article/doi/smw.2020.20225?fbclid=IwAR2MDart-7WJ1IotWGBszlmHl6JCSgqVQexw2iPqOlnMvZQ1XSpjsV1PNaY)  
   
 The [Imperial College COVID-19 Response Team](https://spiral.imperial.ac.uk/bitstream/10044/1/77482/8/2020-03-16-COVID19-Report-9.pdf) has described a nice categorization of the measures taken by countries and regions, where they are either going for suppression or mitigation measures. Both solutions require extensive use of non-pharmaceutical interventions (NPIs), which comes to proper hygiene, social distancing, and others intended to reduce transmission.  
 
@@ -123,8 +146,6 @@ Diseases - Singapore](https://www.med.uminho.pt/pt/covid19/Sade%20Pblica/Tay-202
 **World-wide** lockdown measures, inspired by [this](https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3#china-implemented-what-was-then-the-largest-quarantine-in-human-history-to-try-to-contain-the-coronavirus-locking-down-at-least-16-cities-at-the-end-of-january-14) Business Insider article  
 ![world_time](img/world_timeline.png)  
   
-**Fiscal Responses** taken by some major economies, according to [Bruegel](https://www.bruegel.org/publications/datasets/covid-national-dataset/):  
-![Fiscal Response](img/fiscal_measures.png)  
 
 _____
 # Regressions
