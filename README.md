@@ -262,6 +262,7 @@ Forecast competition [w1](https://www.kaggle.com/c/covid19-global-forecasting-we
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
 [Cambridge University: Coronavirus Vaccine](https://youtu.be/UPkVbZ9X_jQ)  
+[Lessons from 1918 flu - Laurie Garrett](https://www.ted.com/talks/laurie_garrett_lessons_from_the_1918_flu?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
 [Bill Gates: TED Talk, Next Outbreak - 2015](https://www.youtube.com/watch?v=6Af6b_wyiwI)  
 [Global Economy Impact - Al Jazeera](https://www.youtube.com/watch?v=94wGHRDHyHo)  
   
