@@ -95,7 +95,7 @@ In this topic most of the misinformation is beign able to spread from the lack o
 We should understand that those clinical trials are required for safe reproduction of the treatment, and most importantly that those results should be analysed by doctors who will them make their decisions on how to apply them. In therapeutics for example, even without the proper results many medications are beign boosted as "cures" by politicians and the media, and this is extremelly dangerous and can bare heavy consequences. [1](https://www.sciencemag.org/news/2020/03/insane-many-scientists-lament-trump-s-embrace-risky-malaria-drugs-coronavirus), [2](https://www1.folha.uol.com.br/internacional/en/brazil/2020/04/bolsonaro-defends-chloroquine-and-resumes-clash-with-governors-and-mayors-in-televised-speech.shtml)  
 
 Journal of the American College of Emergency Physicians Open. April 7, 2020:  
-<img src="img/therapeutics_table.png" alt="therapeutics table" height="500"/>  
+<img src="img/therapeutics_table.PNG" alt="therapeutics table" height="500"/>  
 [source](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12081)  
 
 Even tought those tests will take a long time until properlly concluded, peer reviewed, and reproduced in other facilities they are essential. Only by properlly documenting what was proven to work we can prepare for next waves of spread, de-isolation, and re-opening of the economy in many places.  
