@@ -18,7 +18,9 @@ To report, analyze, visualize, and acquire knowledge of the current Corona Virus
 This project is mostly to keep a personal record of what is going on. I'm trying to use data and visualizations to record my current perception of the pandemic. Please take in mind that those are my opinions, I've been attempting to source all my assumptions and views, but still, there are many ways of looking at the same data or the same reports, articles, news, etc.
   
 # Overview  
-
+  
+![World Pie](img/world_pie.png)  
+  
 ![World Map - Time series/ Animated](img/map.png)   
 [World Map - Time series/ Animated](img/map_timeseries.gif)  
   
@@ -100,9 +102,9 @@ Journal of the American College of Emergency Physicians Open. April 7, 2020:
 Even though those tests will take a long time until properly concluded, peer-reviewed, and reproduced in other facilities, they are essential. Only by adequately documenting what was proven to work, we can prepare for the next waves of spread, de-isolation, and re-opening of the economy in many places.  
     
 **Europe:**  
-![Recovered](img/rec_top.png)  
+![Recovered](img/top_pie.png)  
 **China, SK, and Iran:**  
-![Recovered](img/rec_china.png)  
+![Recovered](img/rec_pie.png)  
   
 _____  
   
@@ -145,6 +147,7 @@ Diseases - Singapore](https://www.med.uminho.pt/pt/covid19/Sade%20Pblica/Tay-202
 **World-wide** lockdown measures, inspired by [this](https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3#china-implemented-what-was-then-the-largest-quarantine-in-human-history-to-try-to-contain-the-coronavirus-locking-down-at-least-16-cities-at-the-end-of-january-14) Business Insider article  
 ![world_time](img/world_timeline.png)  
   
+>“We know that Covid-19 spreads fast and we know that it is deadly – ten times deadlier than the 2009 flu pandemic. We know that the virus can spread more easily in crowded environments like nursing homes. We know that early case finding, testing, isolating, caring for every case, and tracing every contact is essential for stopping transmission." [WHO](https://www.independent.co.uk/news/health/coronavirus-deaths-cases-latest-swine-flu-who-a9462896.html?utm_source=reddit.com)  
 
 _____
 # Regressions
@@ -155,15 +158,15 @@ It's essential to make a few notes about regressions and predictions at this tim
   
 **SVM - Support Vector Machine Regressor:**  
 ![svm](img/svm_prediction.png)  
-![svm_txt](img/svm_prediction_txt.png)  
+<img src="img/svm_prediction_txt.png" alt="svm txt" width="300"/>    
   
 **Polynomial Regression:**  
 ![Pol_reg](img/polynomial_regression.png)  
-![Pol_reg_txt](img/polynomial_regression_txt.png)  
+<img src="img/polynomial_regression_txt.png" alt="poly txt" width="300"/>  
   
 **Polynomial Baysian Ridge Regression:**  
 ![Pol_Bay_Rid](img/polynomial_bayesian_ridge_regression.png)  
-![Pol_Bay_Rid_txt](img/polynomial_bayesian_ridge_regression_txt.png)  
+<img src="img/polynomial_bayesian_ridge_regression_txt.png" alt="bay poly txt" width="300"/>  
   
 _____
 # Patients Info 
@@ -197,12 +200,13 @@ _____
 [Trump on COVID-19](https://twitter.com/i/status/1242193904553865216)  
 [NY - End of March](https://www.youtube.com/watch?v=bE68xVXf8Kw)  
 [U.S. reluctant to call national lockdown](https://youtu.be/L1XIXssA1xg)  
+[Economic Stimulus](https://www.nytimes.com/2020/03/26/business/economy/fed-coronavirus-stimulus.html)  
   
 **U.S. and the World:**  
 ![Mortality](img/mort_us.png)  
 ![Recovered](img/rec_us.png)  
 
-**China** is the epicentre of the disease, where it originated and started spreading. It has been keeping a terrible record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and were treating the pandemic. In addition to that, at the start of the epidemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of misleading actions and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to the second incredibly hit country, Italy.  
+**China** is the epicentre of the disease, where it originated and started spreading. It has been keeping a terrible record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and were treating the pandemic. In addition to that, at the start of the epidemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of [misleading actions](https://www.youtube.com/watch?v=KjXR4o2EFYI) and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to the second incredibly hit country, Italy.  
   
 ![WHO Tweet](https://i.imgur.com/vndyBbH.png)  
   
@@ -224,7 +228,7 @@ Total confirmed cases after 500 cases, China, SK, and Iran:
   
 **United Kingdom** was reluctant to start preparations and enforce containment measures at the beginning of the crisis, they considered [herd-immunity](https://www.youtube.com/watch?v=hJBTV8anp-8) as an option but eventually recognized their mistakes and started a [nationwide lockdown](https://www.youtube.com/watch?v=LlJIwTd9fqI) 4 days before announcing the [PM has tested positive](https://www.cbc.ca/news/world/britain-pm-johnson-covid-19-1.5512020) for the virus. Their current situation is not looking good. They had also experienced a lack of resources, more specifically of [tests](https://www.youtube.com/watch?v=96_4FfXA94c).  
 
-**Italy** was the second country to have extremely high numbers of infections. It started after China's lockdown and quarantine procedures. Since they were the second country to be heavily hit, their healthcare system wasn't expecting it to be so fast, they [couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and were quickly overwhelmed by cases. Italy was, for some time, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.  
+**Italy** was the second country to have extremely high numbers of infections. It started after China's lockdown and quarantine procedures. Since they were the second country to be heavily hit, their healthcare system [wasn't expecting](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus) it to be so fast, they [couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and were quickly overwhelmed by cases. Italy was, for some time, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.  
   
 Infections, recoveries, deceased, and testing numbers by region:  
   
@@ -233,7 +237,7 @@ Infections, recoveries, deceased, and testing numbers by region:
 
 **Spain** was heavily hit with the virus shortly after Italy, and they are currently the second country with most cases of the disease. They have been struggling with resource shortages, and the overflow of infected patients have [reportedly](https://www.youtube.com/watch?v=i4DngwmTzIA) overwhelmed their systems.  
   
-**Germany** has been [keeping control](https://www.youtube.com/watch?v=TC8wxecpcfk) of the situation as well as it can. It was one of the few countries to take [patients from other countries](https://www.foxnews.com/world/germany-takes-coronavirus-patients-from-italy) for treatment and have worked mostly with mitigation methods.  
+**Germany** has been [keeping control](https://www.youtube.com/watch?v=TC8wxecpcfk) of the situation as well as [it can](https://www.theguardian.com/world/2020/apr/16/angela-merkel-draws-on-science-background-in-covid-19-explainer-lockdown-exit). It was one of the few countries to take [patients from other countries](https://www.foxnews.com/world/germany-takes-coronavirus-patients-from-italy) for treatment and have worked mostly with mitigation methods.  
   
 **France** has suffered a lot with the pandemic already, like Italy, they were one of the first countries to be infected. Due to poor preparation and a [delay in taking actions](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30087-6/fulltext) against the contamination, they've seen huge numbers of infected with high mortality rates.  
   
@@ -251,8 +255,9 @@ _British Columbia:_
 BC, Population Distribution by Age:  
 ![BC - Age Distribution](img/bc_age.png)  
   
-**Brazil**'s position has been unclear since [the president is still dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic. Still, other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing. Hence, the information is not entirely trustworthy.  
-
+**Brazil**'s position has been unclear since [the president is dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic. Still, other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing. Hence, the information is not entirely trustworthy.  
+  
+[Health Minister Fired](https://www.huffingtonpost.ca/entry/bolsonaro-coronavirus-brazil-mandetta_n_5e97778bc5b6ead140070f6e?ri18n=true)  
 [Homeless People Risks](https://www.youtube.com/watch?v=IbgUe-YmM-E)  
   
 Brazil and Canada:  
@@ -261,7 +266,7 @@ Brazil and Canada:
 
 Brazil and Canada, Mortality:  
 ![Mortality](img/mort_selection.png)  
-![Recovered](img/rec_selection.png)  
+![Recovered](img/selection_pie.png)  
   
 **Cuba** is being extremely helpful to many different nations, instead of sending resources such as masks and ventilators, or picking patients from overwhelmed countries Cuba is [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e).  
   
