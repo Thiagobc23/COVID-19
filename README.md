@@ -127,10 +127,10 @@ The [Imperial College COVID-19 Response Team](https://spiral.imperial.ac.uk/bits
   
 Both paths will lead to tremendous losses, by the actions we're watching from other countries, we can note that mitigation measures only work with a highly efficient structure. When adopted in the early stages of the contamination, those were seen in South Korea, Taiwan, and Singapore. While some countries failed to maintain mitigation measures such as the UK, others barely had time to it, such as Italy, France, and Spain. Those countries that couldn't handle the situation with mitigation measures quickly pursued suppression measures, with tighter restrictions on the population and limitations to movement, commerce, and production of "non-essential" goods.  
   
-**Italy** is trying to contain the outbreak with wide suppression measures:  
+**Italy** is trying to contain the outbreak with wide suppression measures, NPIs, and testing:  
 ![Italy_time](img/italy_timeline.png)  
   
-Methods such as **case isolation and contact tracing** can be beneficial, especially if done at the start of the spread. Still, as the infection goes undetected, it's harder to contain it through contact tracing. [1](https://www.sciencedirect.com/science/article/pii/S2214109X20300747)
+Methods such as **case isolation and contact tracing** can be beneficial, especially if done at the start of the spread. The idea here is to isolate cases and track the individuals who were in contact with the hosts for further testing, isolating, tracing their contacts, and so on. Still, as the infection goes undetected, it gets harder to contain it through contact tracing. [1](https://www.sciencedirect.com/science/article/pii/S2214109X20300747)
   
 **South Korea** is containing the infections with targeted and clustered isolations, lots of testing, social distancing, and NPIs.  
 ![SK_time](img/sk_timeline.png)  
@@ -192,9 +192,9 @@ Histogram of patients by days until fatality
   
 _____
 
-# Personal Notes on Countries
+# Notes about Countries
 
-**United States** is currently the country with most cases, it started to accumulate cases soon but only recognized the problem on the late march when the many epidemics spread trough the country couldn't be contained anymore. Most of the mistakes the US committed were due to poor leadership and denialism of what was happening. They then realized the impacts this crisis will bring to the economy and began to test and prepare for the on-going crisis.  
+**United States** is currently the country with most cases, it started to accumulate cases soon but only recognized the problem on the late march when the many epidemics spread trough the country couldn't be contained anymore. Most of the mistakes the US committed were due to poor leadership and denialism of what was happening. They then realized the impacts this crisis will bring to the economy and began to test and prepare for the on-going spread.  
   
 [Trump Tweet](https://i.imgur.com/e6JNRGi.png)  
 [Trump on COVID-19](https://twitter.com/i/status/1242193904553865216)  
@@ -206,7 +206,7 @@ _____
 ![Mortality](img/mort_us.png)  
 ![Recovered](img/rec_us.png)  
 
-**China** is the epicentre of the disease, where it originated and started spreading. It has been keeping a terrible record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and were treating the pandemic. In addition to that, at the start of the epidemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) to [hide the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of [misleading actions](https://www.youtube.com/watch?v=KjXR4o2EFYI) and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to the second incredibly hit country, Italy.  
+**China** is the epicentre of the disease, where it originated and started spreading. It has been keeping a terrible record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and were treating the pandemic. In addition to that, at the start of the epidemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) in [hiding the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of [misleading actions](https://www.youtube.com/watch?v=KjXR4o2EFYI) and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to the second incredibly hit country, Italy.  
   
 ![WHO Tweet](https://i.imgur.com/vndyBbH.png)  
   
@@ -214,7 +214,7 @@ _____
   
 After all those issues and due to the situation we are now, it's clear that the World Health Organization shouldn't be so [politized](https://www.youtube.com/watch?v=UlCYFh8U2xM).
   
-**South Korea** is an example of how to [deal properly](https://www.youtube.com/watch?v=BE-cA4UK07c&feature=youtu.be) with the epidemic and has a excellent record of the transparent release of data and information.  
+**South Korea** is an example of how to [deal properly](https://www.youtube.com/watch?v=BE-cA4UK07c&feature=youtu.be) with the epidemic and has a excellent record of transparent release of data and information.  
 [SK Testing](https://external-preview.redd.it/0rInwaK8upOHByAw_vSrRzdbddmOHwIfZcPmFkLMdIw.jpg?width=640&crop=smart&auto=webp&s=f6413e0eefe6f58f564261d05c56cddea44f10fe)  
   
 **Iran** has also started in a denialist path, and tried to change the narrative but still is having lots of problems involving religious and scientific conflicts inflated by misinformation campaigns during the pandemic. Their data on recoveries and active cases looks optimistic but is considered by many unrealistic. 
@@ -268,7 +268,23 @@ Brazil and Canada, Mortality:
 ![Mortality](img/mort_selection.png)  
 ![Recovered](img/selection_pie.png)  
   
-**Cuba** is being extremely helpful to many different nations, instead of sending resources such as masks and ventilators, or picking patients from overwhelmed countries Cuba is [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e).  
+**Cuba**, even with lack of resources, limited housing and space, which makes social distancing harder. Is being extremely helpful by [rescuing infected passangers](https://www.independent.co.uk/news/world/americas/coronavirus-cruise-ship-cuba-rescue-ms-braemar-havana-cases-a9451741.html) of cruise ships, and [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e) to overwhelmed countries. It's important to note that they were one of the few countries that started preparing for the pandemic in January.   
+  
+# And what now?
+
+So the situation is dire, the virus is deadly enough to cause tremendous damage in our society, but it's also mild enough to spread undetected, our globalist supply chains are in danger, and global production is about to enter a falling trend, there is no known therapeutics or treatments that can alleviate the healthcare system, and testing is not as available as it should. So what can we do to help? How should the communities be acting now? And what to expect for the future?  
+  
+First of all, the focus now should be on containment, so we can buy time to develop some kind of deterrent for the spread, this means social distancing, lockdowns, hygiene campaigns, and lots and lots of cooperation.  
+  
+The second objective should be supplying and improve our current healthcare systems, and this is even harder than the first. We need increased test capacity, more beds, more medical equipment, more PPE, and, most importantly, more trained healthcare professionals. This point is not just important for what's going on now, but also for the future. If there are more waves of spread, we must be prepared.  
+  
+Third would be to actually work on solutions, vaccines are being optimistically expected in 18 months, but we know that vaccines take, on average, five years to be properly developed and tested. New therapeutics may take the same time or even longer for development, but the already approved ones that are used for other diseases may have benefits in controlling the severity of COVID-19, and we could see something in the next 6~12 months. The same goes for other treatments and NPIs.  
+  
+Only after effectively controlling the disease, we can start to think about economic growth. Bill Gates has explained it very well in a [TED interview](https://www.youtube.com/watch?v=Xe8fIjxicoo).
+
+>It's very tough to say to people, "Hey, keep going to restaurants," you know, "Go buy new houses, ignore that pile of bodies over in the corner, just, you know, we want you to keep spending" because there's some, maybe a politician who thinks GDP growth is what really counts. [Bill Gates]
+
+I want to add a section about the economy in this project, but for now, I don't have enough information to write an educated opinion; many countries haven't published their updated unemployment numbers, or estimates for GDP, etc...  
   
 _____
 # References, resources, and inspirations.  
