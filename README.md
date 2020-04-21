@@ -164,7 +164,7 @@ It's essential to make a few notes about regressions and predictions at this tim
 ![Pol_reg](img/polynomial_regression.png)  
 <img src="img/polynomial_regression_txt.png" alt="poly txt" width="300"/>  
   
-**Polynomial Baysian Ridge Regression:**  
+**Polynomial Bayesian Ridge Regression:**  
 ![Pol_Bay_Rid](img/polynomial_bayesian_ridge_regression.png)  
 <img src="img/polynomial_bayesian_ridge_regression_txt.png" alt="bay poly txt" width="300"/>  
   
@@ -206,7 +206,7 @@ _____
 ![Mortality](img/mort_us.png)  
 ![Recovered](img/rec_us.png)  
 
-**China** is the epicentre of the disease, where it originated and started spreading. It has been keeping a terrible record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and were treating the pandemic. In addition to that, at the start of the epidemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) in [hiding the actual numbers](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [misdirect world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw) by [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of [misleading actions](https://www.youtube.com/watch?v=KjXR4o2EFYI) and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to the second incredibly hit country, Italy.  
+**China** is the epicentre of the disease, where it originated and started spreading. It has been keeping a terrible record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and were treating the pandemic. In addition to that, at the start of the epidemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) by [holding information](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [delaying world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw), [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of [misleading actions](https://www.youtube.com/watch?v=KjXR4o2EFYI) and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to worldwide spread.  
   
 ![WHO Tweet](https://i.imgur.com/vndyBbH.png)  
   
@@ -271,6 +271,30 @@ Brazil and Canada, Mortality:
   
 **Cuba**, even with lack of resources, limited housing and space, which makes social distancing harder. Is being extremely helpful by [rescuing infected passangers](https://www.independent.co.uk/news/world/americas/coronavirus-cruise-ship-cuba-rescue-ms-braemar-havana-cases-a9451741.html) of cruise ships, and [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e) to overwhelmed countries. It's important to note that they were one of the few countries that started preparing for the pandemic in January.   
   
+# Who is WHO?
+
+The World Health (WHO), was constituted in 1948 to coordinate health affairs for the United Nations.
+
+Today, they already have more than 7000 people working in 150 country offices, working in a shared commitment to achieving better health for everyone, everywhere.    
+  
+They've already helped a lot with diseases such as Malaria, Influenza, Polio, HIV, Cancer, and so on.  
+  
+Now, they're receiving a lot of attention with the pandemic since one of their responsibilities is to support it's 194 member countries containing the COVID-19. We must note that the way they're supposed to help those countries is by outlining guidelines, overviewing progress, and sharing knowledge with its members. WHO is not responsible for actually sending doctors, equipment, or developing therapeutics.  
+  
+Top 10 Assessed Donors 2020-2021:
+![Voluntary](img/who_assessed.png)  
+
+## Appreciation  
+  
+Since I'm publishing these notes, I want to recognize how much WHO has done for all of us. I cannot stress how much the job they do is essential, they are an irreplaceable organization, and we would be in a way worse situation in this pandemic if it weren't for them.  
+  
+[Polio Eradication - Map](https://imgur.com/a/MnThKJW), [GIT](https://github.com/Thiagobc23/Polio)  
+  
+Top 20 Voluntary Donors 2017:  
+![Voluntary](img/who_vol.png)  
+
+My comments may sound harsh, but even though WHO has done a lot for all of us, there's still a lot of room for improvement and transparency.  
+
 # And what now?
 
 So the situation is dire, the virus is deadly enough to cause tremendous damage in our society, but it's also mild enough to spread undetected, our globalist supply chains are in danger, and global production is about to enter a falling trend, there is no known therapeutics or treatments that can alleviate the healthcare system, and testing is not as available as it should. So what can we do to help? How should the communities be acting now? And what to expect for the future?  
