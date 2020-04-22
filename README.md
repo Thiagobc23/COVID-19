@@ -331,8 +331,11 @@ Forecast competition [w1](https://www.kaggle.com/c/covid19-global-forecasting-we
 [The international journal of science / 19 March 2020](https://media.nature.com/original/magazine-assets/d41586-020-00772-4/d41586-020-00772-4.pdf)  
 [Economics in the Time of COVID-19](http://viet-studies.net/kinhte/COVID19_CPER.pdf), edited by Richard Baldwin and Beatrice Weder di Mauro.  
 [Economic Strategy Group Statement - COVID-19](https://economicstrategygroup.org/resource/economic-strategy-group-statement-covid19/)  
-[Fiscal response to the economic fallout](https://www.bruegel.org/publications/datasets/covid-national-dataset/)
-
+[Fiscal response to the economic fallout](https://www.bruegel.org/publications/datasets/covid-national-dataset/)  
+WHO funding: [1](https://www.who.int/about/finances-accountability/funding/assessed-contributions/en/), 
+[2](https://www.who.int/images/default-source/infographics/budget/top-20.jpg), 
+[3](https://www.who.int/about/finances-accountability/funding/A71_INF2-en.pdf?ua=1)  
+  
 
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
