@@ -100,10 +100,8 @@ Journal of the American College of Emergency Physicians Open. April 7, 2020:
 [source](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12081)  
 
 Even though those tests will take a long time until properly concluded, peer-reviewed, and reproduced in other facilities, they are essential. Only by adequately documenting what was proven to work, we can prepare for the next waves of spread, de-isolation, and re-opening of the economy in many places.  
-    
-**Europe:**  
-![Recovered](img/top_pie.png)  
-**China, SK, and Iran:**  
+  
+![Recovered](img/top_pie.png)    
 ![Recovered](img/rec_pie.png)  
   
 _____  
