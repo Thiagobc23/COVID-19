@@ -109,16 +109,17 @@ def plot_map(df, i):
     try:
         # plot infected locations
         df.plot(kind='scatter', x='Long_', y='Lat', ax=ax, color='orangered', 
-                s=pd.to_numeric(df['Confirmed'], errors='coerce')/200)
+                s=pd.to_numeric(df['Confirmed'], errors='coerce')/200, alpha=0.8)
         north = df[df['Lat']>0]['Confirmed'].sum()
         south = df[df['Lat']<0]['Confirmed'].sum()
     except:
         # plot infected locations
         df.plot(kind='scatter', x='Longitude', y='Latitude', ax=ax, color='orangered', 
-                s=pd.to_numeric(df['Confirmed'], errors='coerce')/200)
+                s=pd.to_numeric(df['Confirmed'], errors='coerce')/200, alpha=0.8)
         north = df[df['Latitude']>0]['Confirmed'].sum()
         south = df[df['Latitude']<0]['Confirmed'].sum()
-
+    plt.legend(['Confirmed'], fontsize = 18)
+    
     plt.plot([-180,180], [0,0], color='white', linestyle='dashed', alpha=0.3)
     plt.text(0, 100, str(i)[:10], color = 'black', fontsize = 25, ha='center')
     
@@ -142,7 +143,7 @@ def plot_map(df, i):
     # hide map axis
     ax.axis('off')
     #ax.legend(['Confirmed','Recovered'], fontsize = 18)
-    ax.legend(['Confirmed'], fontsize = 18)
+    
     plt.savefig('img/video/'+str(i)[:10]+'_map.png', facecolor='grey', edgecolor='none')
 
 
