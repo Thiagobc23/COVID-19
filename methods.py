@@ -20,8 +20,8 @@ world = world[~world.name.isin(["Antarctica", "Fr. S. Antarctic Lands"])]
 url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/'
 path = 'data/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/'
 
-file = '04-21-2020.csv'
-today = '04-21-2020'
+file = '04-22-2020.csv'
+today = '04-22-2020'
 today = pd.to_datetime(today, format = "%m-%d-%Y")
 df = pd.read_csv(path+file)
 df.head()
@@ -101,7 +101,7 @@ def plot_day(df, i):
 
 # plot map of active confirmed and recovered    
 def plot_map(df, i):
-    fig, ax = plt.subplots(1, figsize=(20,11))
+    fig, ax = plt.subplots(1, figsize=(20,11), facecolor='grey')
 
     # plot map
     world.plot(ax=ax, color='black')
@@ -110,24 +110,34 @@ def plot_map(df, i):
         # plot infected locations
         df.plot(kind='scatter', x='Long_', y='Lat', ax=ax, color='orangered', 
                 s=pd.to_numeric(df['Confirmed'], errors='coerce')/200)
-
-        #df.plot(kind='scatter', x='Long_', y='Lat', ax=ax, color='lightblue', 
-        #        s=pd.to_numeric(df['Recovered'], errors='coerce')/200)
+        north = df[df['Lat']>0]['Confirmed'].sum()
+        south = df[df['Lat']<0]['Confirmed'].sum()
     except:
         # plot infected locations
         df.plot(kind='scatter', x='Longitude', y='Latitude', ax=ax, color='orangered', 
                 s=pd.to_numeric(df['Confirmed'], errors='coerce')/200)
+        north = df[df['Latitude']>0]['Confirmed'].sum()
+        south = df[df['Latitude']<0]['Confirmed'].sum()
 
-        #df.plot(kind='scatter', x='Longitude', y='Latitude', ax=ax, color='lightblue', 
-        #        s=pd.to_numeric(df['Recovered'], errors='coerce')/200)
-
+    plt.plot([-180,180], [0,0], color='white', linestyle='dashed', alpha=0.3)
     plt.text(0, 100, str(i)[:10], color = 'black', fontsize = 25, ha='center')
     
     plt.text(0, -60, '{:,d}'.format(df['Confirmed'].sum()), 
              color = 'white', fontsize = 25, ha='center')
     
-    plt.text(0, -50, 'confirmed', 
+    plt.text(0, -50, 'CONFIRMED CASES', 
              color = 'white', fontsize = 15, ha='center')
+
+
+
+    plt.text(-180, 9, 'Northern Hemisphere', fontsize=16, color = 'white')
+    plt.text(-180, 5, '{:,d}'.format(north) + ' cases', 
+            fontsize=16, color = 'white')
+
+    plt.text(-180, -5, 'Southern Hemisphere', fontsize=16, color = 'white')
+    plt.text(-180, -9, '{:,d}'.format(south) + ' cases', 
+            fontsize=16, color = 'white')
+
     plt.subplots_adjust(left=0, right=1, top=1, bottom=0)
     # hide map axis
     ax.axis('off')
@@ -373,5 +383,66 @@ def plot_contry_a(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     ax.xaxis.label.set_color('white')
 
 
+def get_rank():
+    rank = build_df(file)
+    rank = rank.sort_values('Confirmed')
+
+    fig, ax = plt.subplots(1, figsize=(14,8), facecolor='black')
+
+    myrange = 15
+    countries = rank['Country'][-myrange:].values.tolist()
+
+    color1 = 'orangered'
+    color2 = 'grey'
+    color3 = 'lightblue'
+
+    for i, name in enumerate(countries):
+
+        temp = rank[rank['Country'] == name]
+
+        plt.plot([-temp['Deaths'].values[0], -temp['Recovered'].values[0]], [i, i], 
+                 marker='o', color=color3, linewidth=4)
+
+        plt.plot([0, -temp['Deaths'].values[0]], [i, i], 
+                 marker='o', color=color2, linewidth=4)
+
+        plt.plot([0, temp['Active'].values[0]], [i, i], 
+                 marker='o', color=color1, linewidth=4)
+
+    xticks = np.arange(-100000, 700001, 50000)
+    xticks_label =[]
+
+    for i in xticks:
+        val = str(i)[:-3] + 'k'
+        if i < 0:
+            val = val[1:]
+        elif i == 0:
+            val = '|'
+
+        xticks_label.append(val)
+
+    plt.xticks(xticks, labels = xticks_label, fontsize=14)    
+
+    # grid
+    ax.grid(color='grey', linestyle='dashed', linewidth=1, axis = 'x')
+    ax.set_axisbelow(True)
+
+    # remove spines
+    ax.spines['top'].set_visible(False)
+    ax.spines['bottom'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['left'].set_visible(False)
+
+    #Colors, labels, ticks
+    ax.set_facecolor('xkcd:black')
+    plt.yticks(np.arange(len(countries)), color='white', 
+               labels = countries, fontsize=12)
+    plt.xticks(color='white')
+
+    plt.ylim(-1,myrange)
+    plt.title(file[:10], color='white', fontsize=22)
+    plt.legend(['Recovered', 'Deaths', 'Active'], loc='lower right')
+    plt.savefig('img/rank.png', facecolor='black', edgecolor='none')
+ 
 
 
