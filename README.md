@@ -221,8 +221,7 @@ After all those issues and due to the situation we are now, it's clear that the 
 [CBC Coverage](https://www.youtube.com/watch?v=_4Bt29_-oFw)  
 [NY Times Coverage](https://www.youtube.com/watch?v=lm2UFynetJw)  
   
-Total confirmed cases after 500 cases, China, SK, and Iran:  
-![Confirmed Cases](img/conf_china.png)  
+Active cases after 500 cases, China, SK, and Iran:  
 ![Active Cases](img/active_china.png)  
   
 **United Kingdom** was reluctant to start preparations and enforce containment measures at the beginning of the crisis, they considered [herd-immunity](https://www.youtube.com/watch?v=hJBTV8anp-8) as an option but eventually recognized their mistakes and started a [nationwide lockdown](https://www.youtube.com/watch?v=LlJIwTd9fqI) 4 days before announcing the [PM has tested positive](https://www.cbc.ca/news/world/britain-pm-johnson-covid-19-1.5512020) for the virus. Their current situation is not looking good. They had also experienced a lack of resources, more specifically of [tests](https://www.youtube.com/watch?v=96_4FfXA94c).  
