@@ -229,11 +229,6 @@ Total confirmed cases after 500 cases, China, SK, and Iran:
 
 **Italy** was the second country to have extremely high numbers of infections. It started after China's lockdown and quarantine procedures. Since they were the second country to be heavily hit, their healthcare system [wasn't expecting](https://www.who.int/dg/speeches/detail/who-director-general-s-statement-on-the-advice-of-the-ihr-emergency-committee-on-novel-coronavirus) it to be so fast, they [couldn't handle the situation](https://www.youtube.com/watch?v=z2KpsZRpoZ8) and were quickly overwhelmed by cases. Italy was, for some time, the country with the most registered casualties and motivated most of the world to act in preparation for the COVID-19 pandemic.  
   
-Infections, recoveries, deceased, and testing numbers by region:  
-  
-<img src="img/Italy_prog.gif" alt="drawing" width="500"/>  
-*Note that the time for concluding a test and receiving its results may vary, so the results showed in one day correspond to tests made earlier and not necessarily on that same day. 
-
 **Spain** was heavily hit with the virus shortly after Italy, and they are currently the second country with most cases of the disease. They have been struggling with resource shortages, and the overflow of infected patients have [reportedly](https://www.youtube.com/watch?v=i4DngwmTzIA) overwhelmed their systems.  
   
 **Germany** has been [keeping control](https://www.youtube.com/watch?v=TC8wxecpcfk) of the situation as well as [it can](https://www.theguardian.com/world/2020/apr/16/angela-merkel-draws-on-science-background-in-covid-19-explainer-lockdown-exit). It was one of the few countries to take [patients from other countries](https://www.foxnews.com/world/germany-takes-coronavirus-patients-from-italy) for treatment and have worked mostly with mitigation methods.  
@@ -260,12 +255,14 @@ BC, Population Distribution by Age:
 [Homeless People Risks](https://www.youtube.com/watch?v=IbgUe-YmM-E)  
   
 Brazil and Canada:  
+**Overall**  
+![Recovered](img/selection_pie.png)    
+**Timeseries**  
 ![Confirmed Cases](img/conf_selection.png)  
 ![Active](img/active_selection.png)  
-
-Brazil and Canada, Mortality:  
+**Mortality**  
 ![Mortality](img/mort_selection.png)  
-![Recovered](img/selection_pie.png)  
+
   
 **Cuba**, even with lack of resources, limited housing and space, which makes social distancing harder. Is being extremely helpful by [rescuing infected passangers](https://www.independent.co.uk/news/world/americas/coronavirus-cruise-ship-cuba-rescue-ms-braemar-havana-cases-a9451741.html) of cruise ships, and [sending doctors](https://apnews.com/98cfdbf5c4a62a40eba648723e452f3e) to overwhelmed countries. It's important to note that they were one of the few countries that started preparing for the pandemic in January.   
   
