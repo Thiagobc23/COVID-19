@@ -333,7 +333,7 @@ Forecast competition [w1](https://www.kaggle.com/c/covid19-global-forecasting-we
 WHO funding: [1](https://www.who.int/about/finances-accountability/funding/assessed-contributions/en/), 
 [2](https://www.who.int/images/default-source/infographics/budget/top-20.jpg), 
 [3](https://www.who.int/about/finances-accountability/funding/A71_INF2-en.pdf?ua=1)  
-  
+[SEIR Modeling - Git](https://gabgoh.github.io/COVID/index.html)  
 
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
