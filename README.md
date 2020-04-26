@@ -245,8 +245,8 @@ _British Columbia:_
 
 ![BC - Active Cases](img/bc_active.png)  
   
-BC, Population Distribution by Age:  
-![BC - Age Distribution](img/bc_age.png)  
+Canada Cases/ Population:  
+![Canada Cases/Pop](img/can_rank2.png)  
   
 **Brazil**'s position has been unclear since [the president is dismissing](https://www.nytimes.com/2020/04/01/world/americas/brazil-bolsonaro-coronavirus.html) the pandemic. Still, other political leaders are not, Brazil also has issues within its data collection, mostly for lack of testing. Hence, the information is not entirely trustworthy.  
   
