@@ -118,7 +118,11 @@ def plot_map(df, i):
                 s=pd.to_numeric(df['Confirmed'], errors='coerce')/200, alpha=0.8)
         north = df[df['Latitude']>0]['Confirmed'].sum()
         south = df[df['Latitude']<0]['Confirmed'].sum()
-    plt.legend(['Confirmed'], fontsize = 18)
+    for area in [100, 300, 500]:
+        plt.scatter([], [], c='orangered', alpha=0.3, s=area,
+                    label=str((area*200)/1000)[:-2] + 'k cases')
+    plt.legend(scatterpoints=1, frameon=False, 
+               labelspacing=1, title='Confirmed Cases')
     
     plt.plot([-180,180], [0,0], color='white', linestyle='dashed', alpha=0.3)
     plt.text(0, 100, str(i)[:10], color = 'black', fontsize = 25, ha='center')
