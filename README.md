@@ -74,14 +74,14 @@ The [first way](https://www.worldometers.info/coronavirus/coronavirus-death-rate
   
 The [other method](https://academic.oup.com/aje/article/162/5/479/82647) I'm using is calculating Deaths/(Deaths+Recoveries), this way we're considering only cases that concluded. But again, this is still incomplete since, at the beginning of the pandemic, the only cases reported were cases with troublesome symptoms and mostly in late stages of the infection. The number of deaths was reported way faster than the recoveries, and we took a long time until we started looking at asymptomatic cases. So this number will usually display a higher mortality rate than the true.  
   
-To make it simple, consider the first mortality rate, you see as an underestimated number and the second as an overestimated number.   
+To make it simple, consider the top line, you see as an overestimated mortality rate and the bottom as an underestimated rate.   
   
-**Europe:**  
+**Countries with most confirmed cases:**  
 ![Mortality](img/mort_top.png)  
 
   
-**China, SK, and Iran:**  
-![Mortality](img/mort_china.png)  
+**Relatively Successful countries:**  
+![Mortality](img/mort_suc.png)  
  
     
 _____
