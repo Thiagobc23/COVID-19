@@ -201,7 +201,6 @@ _____
 [Economic Stimulus](https://www.nytimes.com/2020/03/26/business/economy/fed-coronavirus-stimulus.html)  
   
 **U.S. and the World:**  
-![Mortality](img/mort_us.png)  
 ![Recovered](img/rec_us.png)  
 
 **China** is the epicentre of the disease, where it originated and started spreading. It has been keeping a bad record of the epidemic, with [misleading data](https://www.forbes.com/sites/kenrapoza/2020/03/31/china-hints-that-its-coronavirus-data-doesnt-paint-full-picture/#59d700422d58), reluctancy to accept the situation and [poor handling of the medical team](https://www.theguardian.com/world/2020/mar/11/coronavirus-wuhan-doctor-ai-fen-speaks-out-against-authorities) that both discovered and were treating the pandemic. In addition to that, at the start of the epidemic [WHO supported China](https://nationalpost.com/news/world/this-is-not-a-time-for-fear-who-downplays-criticism-china-hushed-up-coronavirus-in-early-days) by [holding information](https://www.cnbc.com/2020/04/01/coronavirus-china-hid-extent-of-outbreak-us-intelligence-reportedly-says.html?view=story) and [delaying world efforts](https://www.youtube.com/watch?v=m5fsidSOJMw), [ensuring other nations](https://www.youtube.com/watch?v=LwqhvRcBrK4) that China was doing a great job containing the virus. This series of [misleading actions](https://www.youtube.com/watch?v=KjXR4o2EFYI) and [grave mistakes](https://www.youtube.com/watch?v=U-746eJGyUI&feature=youtu.be) led to worldwide spread.  
