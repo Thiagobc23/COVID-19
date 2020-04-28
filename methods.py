@@ -413,7 +413,7 @@ def get_rank():
         plt.plot([0, temp['Active'].values[0]], [i, i], 
                  marker='o', color=color1, linewidth=4)
 
-    xticks = np.arange(-100000, 800001, 50000)
+    xticks = np.arange(-100000, 850001, 50000)
     xticks_label =[]
 
     for i in xticks:
