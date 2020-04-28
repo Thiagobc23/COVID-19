@@ -20,8 +20,8 @@ world = world[~world.name.isin(["Antarctica", "Fr. S. Antarctic Lands"])]
 url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/'
 path = 'data/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/'
 
-file = '04-26-2020.csv'
-today = '04-26-2020'
+file = '04-27-2020.csv'
+today = '04-27-2020'
 today = pd.to_datetime(today, format = "%m-%d-%Y")
 df = pd.read_csv(path+file)
 df.head()
@@ -209,6 +209,7 @@ def plot_contry(ax, name, first_file='01-22-2020', start='01-23-2020', end=today
     df = get_range(first_file, start, end)
     
     country = df[df['Country'].isin(name)]
+    labels = country.Date.values[::-5]
 
     if inverse:
         country = df[~df['Country'].isin(name)]
@@ -227,8 +228,8 @@ def plot_contry(ax, name, first_file='01-22-2020', start='01-23-2020', end=today
     ax.spines['right'].set_visible(False)
 
     #title
-    plt.xticks(x[::5],rotation=45, ha='right', fontsize=12)
-    plt.xlabel('Days after 500 cases', fontsize=18)
+    plt.xticks(x[::-5], labels=labels ,rotation=45, ha='right', fontsize=12)
+    #plt.xlabel('Days after 500 cases', fontsize=18)
     plt.title('Confirmed Cases', fontsize=22, color='white')
     
     #Colors
@@ -319,7 +320,8 @@ def plot_contry_r(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     
     df = get_range(first_file, start, end)    
     country = df[df['Country'].isin(name)]
-    
+    labels = country.Date.values[::-5]
+
     if inverse:
         country = df[~df['Country'].isin(name)]
         country = country.groupby('Date').sum()
@@ -337,11 +339,11 @@ def plot_contry_r(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     ax.spines['right'].set_visible(False)
 
     #title
-    plt.xticks(x[::5], rotation=45, ha='right', fontsize=12)
+    plt.xticks(x[::-5], labels=labels, rotation=45, ha='right', fontsize=12)
     plt.yticks(fontsize=18)
     plt.title('Recovery Rate', fontsize=18, color='white')
     plt.ylabel('%', fontsize=18)
-    plt.xlabel('Days after 500 cases', fontsize=18)
+    #plt.xlabel('Days after 500 cases', fontsize=18)
     
     ax.set_facecolor('xkcd:black')
     ax.tick_params(axis='x', colors='white')
@@ -358,15 +360,14 @@ def plot_contry_a(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     df = get_range(first_file, start, end)
     
     country = df[df['Country'].isin(name)]
-
+    labels = country.Date.values[::-5]
     if inverse:
         country = df[~df['Country'].isin(name)]
         country = country.groupby('Date').sum()
     
     x = np.arange(0, len(country))
     plt.plot(x, country.Active, marker='.')
-    #plt.scatter(us.Date, us.Confirmed)
-
+    
     # grid
     ax.grid(color='grey', linestyle='dashed', linewidth=1, axis = 'y')
     ax.set_axisbelow(True)
@@ -376,8 +377,8 @@ def plot_contry_a(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     ax.spines['right'].set_visible(False)
 
     #title
-    plt.xticks(x[::5],rotation=45, ha='right', fontsize=12)
-    plt.xlabel('Days after 500 cases', fontsize=18)
+    plt.xticks(x[::-5], labels = labels, rotation=45, ha='right', fontsize=12)
+    #plt.xlabel('Days after 500 cases', fontsize=18)
     plt.title('Active Cases', fontsize=22, color='white')
     
     #Colors
