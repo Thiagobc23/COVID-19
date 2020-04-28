@@ -209,7 +209,6 @@ def plot_contry(ax, name, first_file='01-22-2020', start='01-23-2020', end=today
     df = get_range(first_file, start, end)
     
     country = df[df['Country'].isin(name)]
-    labels = country.Date.values[::-5]
 
     if inverse:
         country = df[~df['Country'].isin(name)]
@@ -228,8 +227,8 @@ def plot_contry(ax, name, first_file='01-22-2020', start='01-23-2020', end=today
     ax.spines['right'].set_visible(False)
 
     #title
-    plt.xticks(x[::-5], labels=labels ,rotation=45, ha='right', fontsize=12)
-    #plt.xlabel('Days after 500 cases', fontsize=18)
+    plt.xticks(x[::-5] ,rotation=45, ha='right', fontsize=12)
+    plt.xlabel('Days after 500 cases', fontsize=18)
     plt.title('Confirmed Cases', fontsize=22, color='white')
     
     #Colors
@@ -320,7 +319,6 @@ def plot_contry_r(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     
     df = get_range(first_file, start, end)    
     country = df[df['Country'].isin(name)]
-    labels = country.Date.values[::-5]
 
     if inverse:
         country = df[~df['Country'].isin(name)]
@@ -339,11 +337,11 @@ def plot_contry_r(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     ax.spines['right'].set_visible(False)
 
     #title
-    plt.xticks(x[::-5], labels=labels, rotation=45, ha='right', fontsize=12)
+    plt.xticks(x[::-5], rotation=45, ha='right', fontsize=12)
     plt.yticks(fontsize=18)
     plt.title('Recovery Rate', fontsize=18, color='white')
     plt.ylabel('%', fontsize=18)
-    #plt.xlabel('Days after 500 cases', fontsize=18)
+    plt.xlabel('Days after 500 cases', fontsize=18)
     
     ax.set_facecolor('xkcd:black')
     ax.tick_params(axis='x', colors='white')
@@ -360,7 +358,7 @@ def plot_contry_a(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     df = get_range(first_file, start, end)
     
     country = df[df['Country'].isin(name)]
-    labels = country.Date.values[::-5]
+
     if inverse:
         country = df[~df['Country'].isin(name)]
         country = country.groupby('Date').sum()
@@ -377,8 +375,8 @@ def plot_contry_a(ax, name, first_file='01-22-2020', start='01-23-2020', end=tod
     ax.spines['right'].set_visible(False)
 
     #title
-    plt.xticks(x[::-5], labels = labels, rotation=45, ha='right', fontsize=12)
-    #plt.xlabel('Days after 500 cases', fontsize=18)
+    plt.xticks(x[::-5], rotation=45, ha='right', fontsize=12)
+    plt.xlabel('Days after 500 cases', fontsize=18)
     plt.title('Active Cases', fontsize=22, color='white')
     
     #Colors
