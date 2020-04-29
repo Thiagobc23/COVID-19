@@ -57,7 +57,7 @@ WHO has a section in their [website](https://www.who.int/emergencies/diseases/no
 ## Severity
 
 COVID-19 patients most commonly display respiratory symptoms; the virus was firstly identified by an outbreak of pneumonia cases, after all. But not only that, the disease has been proved to cause digestive symptoms, cardiovascular damage, neurological manifestations, and others. Most of those symptoms were only registered in a few cases, with even fewer cases developing symptoms hard enough to cause a fatality. [1](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf), [2](https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3w4wcTno9A798v1fuYbALPLUHU5dNsVNVFKDc6GW-6yED2mXcyxrJY7dc), [3](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3544840), 
-[4](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30057-1/fulltext)[5](https://www.independent.co.uk/news/world/americas/coronavirus-symptoms-lung-kidney-heart-covid-19-us-doctors-a9466701.html?utm_source=reddit.com)  
+[4](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(20)30057-1/fulltext), [5](https://www.independent.co.uk/news/world/americas/coronavirus-symptoms-lung-kidney-heart-covid-19-us-doctors-a9466701.html?utm_source=reddit.com)  
     
  Mostly the deaths are happening because of respiratory symptoms, with a higher probability of happening to patients in higher age or with pre-existing health conditions. [1](https://www.sciencedirect.com/science/article/pii/S0140673620305663), [2](https://www.youtube.com/watch?v=BuzP-uLctYE)
 
