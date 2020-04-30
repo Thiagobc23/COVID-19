@@ -147,6 +147,23 @@ Diseases - Singapore](https://www.med.uminho.pt/pt/covid19/Sade%20Pblica/Tay-202
   
 >“We know that Covid-19 spreads fast and we know that it is deadly – ten times deadlier than the 2009 flu pandemic. We know that the virus can spread more easily in crowded environments like nursing homes. We know that early case finding, testing, isolating, caring for every case, and tracing every contact is essential for stopping transmission." [WHO](https://www.independent.co.uk/news/health/coronavirus-deaths-cases-latest-swine-flu-who-a9462896.html?utm_source=reddit.com)  
 
+
+# Testing  
+
+It's undeniable that high amounts of testing are necessary to both suppress and to maintain control of the virus once contained. They're also how most countries are confirming cases, so it's essential to understand how to interpret their results.
+
+    Error Type I > False Positive > Testing positive without having the virus.
+    Error Type II > False Negative > Testing negative while having the virus.
+
+**Testing Numbers:**
+Testing is reported in many different ways, if reported at all. 
+Within [this dataset](https://github.com/owid/covid-19-data), they are reported either by the number of people/ cases tested or the amount of tests/ swabs/ samples. In my understanding, people may be tested more than once, especially if they test positive, this may cause a significant difference when comparing those numbers.  
+  
+![testsp1](img/tests_p1.png)  
+![tests1](img/tests1.png)   
+  
+  
+  
 _____
 # Regressions
 
@@ -329,7 +346,8 @@ WHO funding: [1](https://www.who.int/about/finances-accountability/funding/asses
 [2](https://www.who.int/images/default-source/infographics/budget/top-20.jpg), 
 [3](https://www.who.int/about/finances-accountability/funding/A71_INF2-en.pdf?ua=1)  
 [SEIR Modeling - Git](https://gabgoh.github.io/COVID/index.html)  
-
+[OWID](https://github.com/owid/covid-19-data)  
+  
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
 [Cambridge University: Coronavirus Vaccine](https://youtu.be/UPkVbZ9X_jQ)  
