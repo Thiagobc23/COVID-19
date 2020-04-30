@@ -119,7 +119,7 @@ One thing is clear: doing nothing isn't helpful in anyways and will cause an eve
   
 The [Imperial College COVID-19 Response Team](https://spiral.imperial.ac.uk/bitstream/10044/1/77482/8/2020-03-16-COVID19-Report-9.pdf) has described a nice categorization of the measures taken by countries and regions, where they are either going for suppression or mitigation measures. Both solutions require extensive use of non-pharmaceutical interventions (NPIs), which comes to proper hygiene, social distancing, and others solutions intended to reduce transmission.  
 
->**Suppression**. Here the aim is to reduce the reproduction number (the average number of secondary cases each case generates), R, to below 1 and hence to reduce case numbers to low levels or (as for SARS or Ebola) eliminate human-to-human transmission. The main challenge of this approach is that NPIs (and drugs, if available) need to be maintained – at least intermittently - for as long as the virus is circulating in the human population, or until a vaccine becomes available. In the case of COVID-19, it will be at least 12-18 months before a vaccine is available. Furthermore, there is no guarantee that initial vaccines will have high efficacy.
+>**Suppression**. Here the aim is to reduce the reproduction number (the average number of secondary cases each case generates), R, to below 1 and hence to reduce case numbers to low levels or (as for SARS or Ebola) eliminate human-to-human transmission. The main challenge of this approach is that NPIs (and drugs, if available) need to be maintained – at least intermittently - for as long as the virus is circulating in the human population, or until a vaccine becomes available. In the case of COVID-19, it will be at least 12-18 months before a vaccine is available. Furthermore, there is no guarantee that initial vaccines will have high efficacy (The current influenza vaccine has about 45% efficiency).
 
 >**Mitigation**. Here the aim is to use NPIs (and vaccines or drugs, if available) not to interrupt transmission completely, but to reduce the health impact of an epidemic, akin to the strategy adopted by some US cities in 1918, and by the world more generally in the 1957, 1968 and 2009 influenza pandemics. In the 2009 pandemic, for instance, early supplies of vaccine were targeted at individuals with pre-existing medical conditions which put them at risk of more severe disease. In this scenario, population immunity builds up through the epidemic, leading to an eventual rapid decline in case numbers and transmission dropping to low levels.  
   
@@ -313,11 +313,17 @@ First of all, the focus now should be on containment, so we can buy time to deve
   
 The second objective should be supplying and improve our current healthcare systems, and this is even harder than the first. We need increased test capacity, more beds, more medical equipment, more PPE, and, most importantly, more trained healthcare professionals. This point is not just important for what's going on now, but also for the future. If there are more waves of spread, we must be prepared.  
   
-Third would be to actually work on solutions, vaccines are being optimistically expected in 18 months, but we know that vaccines take, on average, five years to be properly developed and tested. New therapeutics may take the same time or even longer for development, but the already approved ones that are used for other diseases may have benefits in controlling the severity of COVID-19, and we could see something in the next 6~12 months. The same goes for other treatments and NPIs.  
+Third would be to work on long term solutions, vaccines are optimistically expected in 18 months, but we know that the fastest we ever took to develop, test and massively produce one was five years.  
+![vaccine timeline](https://media.gatesnotes.com/-/media/Images/Articles/Health/What-you-need-to-know-about-the-COVID-19-vaccine/what-you-need-to-know_2020_inline-graph_desktop-03.ashx)  
+[source](https://www.gatesnotes.com/Health/What-you-need-to-know-about-the-COVID-19-vaccine?WT.mc_id=20200430100000_COVID-19-vaccine_BG-EM_&WT.tsrc=BGEM)   
+  
+New therapeutics may take even longer for development. Still, the already approved ones, used for other diseases, may have benefits in controlling the severity of COVID-19, and we could see something in the next 6~12 months. The same goes for different treatments and NPIs.  
   
 Only after effectively controlling the disease, we can start to think about economic growth. Bill Gates has explained it very well in a [TED interview](https://www.youtube.com/watch?v=Xe8fIjxicoo).
 
 >It's very tough to say to people, "Hey, keep going to restaurants," you know, "Go buy new houses, ignore that pile of bodies over in the corner, just, you know, we want you to keep spending" because there's some, maybe a politician who thinks GDP growth is what really counts. [Bill Gates]
+  
+
 
 I want to add a section about the economy in this project, but for now, I don't have enough information to write an educated opinion; many countries haven't published their updated unemployment numbers, or estimates for GDP, etc...  
   
