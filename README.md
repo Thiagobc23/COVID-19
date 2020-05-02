@@ -64,8 +64,10 @@ COVID-19 patients most commonly display respiratory symptoms; the virus was firs
 >The fact that many patients deteriorate to a critical state and require intensive care for significantly more than one week is particularly concerning. Basic epidemiological models of the spread of the SARS-CoV-2 virus suggest that owing to its contagiousness and the lack of immunity in the population, 40−70% of the population could become infected unless strong measures are taken. [Swiss Medical Weekly](https://smw.ch/article/doi/smw.2020.20225?fbclid=IwAR2MDart-7WJ1IotWGBszlmHl6JCSgqVQexw2iPqOlnMvZQ1XSpjsV1PNaY)
 
 On top of all that, we are still trying to figure out much about treatment, the disease is spreading very quickly, and our healthcare resources are limited.
-[1](https://youtu.be/bp5RMutCNoI)
+[1](https://youtu.be/bp5RMutCNoI)  
   
+![count](img/count.png)  
+
 ## Mortality Rates
   
 I want to make a note here about the mortality rates. In this analysis, I've used two methods to calculate the on-going mortality rate of the virus, but it's important to mention that both of them are incredibly naive.
@@ -159,8 +161,8 @@ It's undeniable that high amounts of testing are necessary to both suppress and 
 Testing is reported in many different ways, if reported at all. 
 Within [this dataset](https://github.com/owid/covid-19-data), they are reported either by the number of people/ cases tested or the amount of tests/ swabs/ samples. In my understanding, people may be tested more than once, especially if they test positive, this may cause a significant difference when comparing those numbers.  
   
-![testsp1](img/tests_p1.png)  
-![tests1](img/tests1.png)   
+![testsp1](img/tests1.png)  
+![tests1](img/tests2.png)   
   
   
   
