@@ -48,12 +48,13 @@ WHO has a section in their [website](https://www.who.int/emergencies/diseases/no
 
 **U.S. and the World:**  
 ![Confirmed Cases](img/conf_us.png)  
-![Active](img/active_us.png) 
-
+  
 **Europe:**  
 ![Confirmed Cases](img/conf_top.png)  
-![Active](img/active_top.png)  
-    
+  
+### Active Cases  
+![Active Cases](img/active_log.png)
+
 ## Severity
 
 COVID-19 patients most commonly display respiratory symptoms; the virus was firstly identified by an outbreak of pneumonia cases, after all. But not only that, the disease has been proved to cause digestive symptoms, cardiovascular damage, neurological manifestations, and others. Most of those symptoms were only registered in a few cases, with even fewer cases developing symptoms hard enough to cause a fatality. [1](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf), [2](https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3w4wcTno9A798v1fuYbALPLUHU5dNsVNVFKDc6GW-6yED2mXcyxrJY7dc), [3](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3544840), 
