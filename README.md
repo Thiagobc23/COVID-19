@@ -359,7 +359,9 @@ WHO funding: [1](https://www.who.int/about/finances-accountability/funding/asses
 [3](https://www.who.int/about/finances-accountability/funding/A71_INF2-en.pdf?ua=1)  
 [SEIR Modeling - Git](https://gabgoh.github.io/COVID/index.html)  
 [OWID](https://github.com/owid/covid-19-data)  
-  
+[EU Mortality Rate](https://www.euromomo.eu/graphs-and-maps/#pooled-by-age-group)
+
+
 Video Resources:  
 [Cambridge University: Spanish Flu: a warning from history - 2018](https://www.youtube.com/watch?v=3x1aLAw_xkY)  
 [Cambridge University: Coronavirus Vaccine](https://youtu.be/UPkVbZ9X_jQ)  
