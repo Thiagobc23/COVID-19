@@ -2,9 +2,9 @@
   
 Referencing the **[Public Health Agency of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html?topic=ex-col-faq#a)**:  
   
-"Coronaviruses are a large family of viruses. Some cause illness in people, and others cause illness in animals. Human coronaviruses are common and are typically associated with mild diseases, similar to the common cold.
+"Coronaviruses are a large family of viruses. Some cause illness in people, and others cause illness in animals. Human coronaviruses are common and are typically associated with mild diseases, similar to the common cold.  
   
-COVID-19 is a new disease that has not been previously identified in humans. Rarely, animal coronaviruses can infect people, and more rarely, these can then spread from person to person through close contact.
+COVID-19 is a new disease that has not been previously identified in humans. Rarely, animal coronaviruses can infect people, and more rarely, these can then spread from person to person through close contact.  
   
 There have been 2 other specific coronaviruses that have spread from animals to humans and which have caused severe illness in humans. These are the:  
   
