@@ -10,7 +10,7 @@ There have been 2 other specific coronaviruses that have spread from animals to 
   
 [Severe acute respiratory syndrome coronavirus (SARS CoV)](https://www.canada.ca/en/health-canada/services/health-concerns/diseases-conditions/sars-severe-acute-respiratory-syndrome.html)  
 [Middle East respiratory syndrome coronavirus (MERS CoV)](https://www.canada.ca/en/public-health/services/diseases/middle-east-respiratory-syndrome-mers.html)"  
-
+  
 ## Objective
 
 To report, analyze, visualize, and acquire knowledge of the current Corona Virus Disease 2019 (COVID-19).  
