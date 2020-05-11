@@ -68,7 +68,7 @@ On top of all that, we are still trying to figure out much about treatment, the 
 [1](https://youtu.be/bp5RMutCNoI)  
   
 ![count](img/count.png)  
-
+  
 ## Mortality Rates
   
 I want to make a note here about the mortality rates. In this analysis, I've used two methods to calculate the on-going mortality rate of the virus, but it's important to mention that both of them are incredibly naive.
