@@ -71,8 +71,8 @@ On top of all that, we are still trying to figure out much about treatment, the 
   
 ## Mortality Rates
   
-I want to make a note here about the mortality rates. In this analysis, I've used two methods to calculate the on-going mortality rate of the virus, but it's important to mention that both of them are incredibly naive.
-
+I want to make a note here about the mortality rates. In this analysis, I've used two methods to calculate the on-going mortality rate of the virus, but it's important to mention that both of them are incredibly naive.  
+  
 The [first way](https://www.worldometers.info/coronavirus/coronavirus-death-rate/#correct) is what most people are doing, merely calculating Deaths/Confirmed Cases and reporting the percentage of people that died from the disease compared to the number of confirmed cases, this is naive because it doesn't consider the 'time'. Most of the confirmed cases are currently infections in process, that hasn't concluded yet, so by considering them we are reducing the actual mortality rate.  
   
 The [other method](https://academic.oup.com/aje/article/162/5/479/82647) I'm using is calculating Deaths/(Deaths+Recoveries), this way we're considering only cases that concluded. But again, this is still incomplete since, at the beginning of the pandemic, the only cases reported were cases with troublesome symptoms and mostly in late stages of the infection. The number of deaths was reported way faster than the recoveries, and we took a long time until we started looking at asymptomatic cases. So this number will usually display a higher mortality rate than the true.  
