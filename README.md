@@ -52,6 +52,7 @@ WHO has a section in their [website](https://www.who.int/emergencies/diseases/no
 **Europe:**  
 ![Confirmed Cases](img/conf_top.png)  
   
+The reasons why some countries have decreased their confirmed cases are mostly for changes in reporting policies and the way they register. Since they didn't have enough testing capacity at the beginning, many of them were reporting all presumptive cases as confirmed. As time goes by, those cases are tested and correctly registered.  
 ### Active Cases  
 ![Active Cases](img/active_log.png)
 
