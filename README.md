@@ -12,7 +12,7 @@ There have been 2 other specific coronaviruses that have spread from animals to 
 [Middle East respiratory syndrome coronavirus (MERS CoV)](https://www.canada.ca/en/public-health/services/diseases/middle-east-respiratory-syndrome-mers.html)"  
   
 ## Objective
-
+  
 To report, analyze, visualize, and acquire knowledge of the current Corona Virus Disease 2019 (COVID-19).  
 
 This project is mostly to keep a personal record of what is going on. I'm trying to use data and visualizations to record my current perception of the pandemic. Please take in mind that those are my opinions, I've been attempting to source all my assumptions and views, but still, there are many ways of looking at the same data or the same reports, articles, news, etc.

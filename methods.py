@@ -20,8 +20,8 @@ world = world[~world.name.isin(["Antarctica", "Fr. S. Antarctic Lands"])]
 url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/'
 path = 'data/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/'
 
-file = '05-14-2020.csv'
-today = '05-14-2020'
+file = '05-31-2020.csv'
+today = '05-31-2020'
 today = pd.to_datetime(today, format = "%m-%d-%Y")
 df = pd.read_csv(path+file)
 df.head()
@@ -405,15 +405,18 @@ def get_rank():
         temp = rank[rank['Country'] == name]
 
         plt.plot([-temp['Deaths'].values[0], -temp['Recovered'].values[0]], [i, i], 
-                 marker='o', color=color3, linewidth=4)
+                 marker='o', markersize=7, 
+                 color=color3, linewidth=6)
 
         plt.plot([0, -temp['Deaths'].values[0]], [i, i], 
-                 marker='o', color=color2, linewidth=4)
+                 marker='o', markersize=7,
+                 color=color2, linewidth=6)
 
         plt.plot([0, temp['Active'].values[0]], [i, i], 
-                 marker='o', color=color1, linewidth=4)
+                 marker='o', markersize=7, 
+                 color=color1, linewidth=6)
 
-    xticks = np.arange(-300000, 1100001, 100000)
+    xticks = np.arange(-600000, 1300001, 150000)
     xticks_label =[]
 
     for i in xticks:

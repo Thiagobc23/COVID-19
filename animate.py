@@ -16,13 +16,11 @@ world = world[~world.name.isin(["Antarctica", "Fr. S. Antarctic Lands"])]
 url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/'
 path = 'data/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/'
 
-file = '05-14-2020.csv'
-today = '05-14-2020'
+file = '05-31-2020.csv'
+today = '05-31-2020'
 today = pd.to_datetime(today, format = "%m-%d-%Y")
 df = pd.read_csv(path+file)
 df.head()
-
-
 
 ### MAPS ###
 print('printing maps')
@@ -65,8 +63,6 @@ clip.write_videofile("img/map_timeseries.mp4")
 
 # build gif
 build_gif(clip_list, 'img/map_timeseries', duration=0.3)
-
-
 
 ### RANKS ###
 print('printing ranks')
