@@ -307,32 +307,9 @@ Since I'm publishing these notes, I want to recognize how much WHO has done for 
 Top 20 Voluntary Donors 2017:  
 ![Voluntary](img/who_vol.png)  
 
-My comments may sound harsh, but even though WHO has done a lot for all of us, there's still a lot of room for improvement and transparency.  
-
-# And what now?
-
-So the situation is dire, the virus is deadly enough to cause tremendous damage in our society, but it's also mild enough to spread undetected, our globalist supply chains are in danger, and global production is about to enter a falling trend, there is no known therapeutics or treatments that can alleviate the healthcare system, and testing is not as available as it should. So what can we do to help? How should the communities be acting now? And what to expect for the future?  
-  
-First of all, the focus now should be on containment, so we can buy time to develop some kind of deterrent for the spread, this means social distancing, lockdowns, hygiene campaigns, and lots and lots of cooperation.  
-  
-The second objective should be supplying and improve our current healthcare systems, and this is even harder than the first. We need increased test capacity, more beds, more medical equipment, more PPE, and, most importantly, more trained healthcare professionals. This point is not just important for what's going on now, but also for the future. If there are more waves of spread, we must be prepared.  
-  
-Third would be to work on long term solutions, vaccines are optimistically expected in 18 months, but we know that the fastest we ever took to develop, test and massively produce one was five years.  
-  
-![vaccine timeline](https://media.gatesnotes.com/-/media/Images/Articles/Health/What-you-need-to-know-about-the-COVID-19-vaccine/what-you-need-to-know_2020_inline-graph_desktop-03.ashx)  
-[source](https://www.gatesnotes.com/Health/What-you-need-to-know-about-the-COVID-19-vaccine?WT.mc_id=20200430100000_COVID-19-vaccine_BG-EM_&WT.tsrc=BGEM)   
-  
-Efficiency will also be a very important indicator once the vaccines trials start collecting enough data, for reference the current influenza vaccine has about [45% efficiency](https://www.cdc.gov/mmwr/volumes/69/wr/mm6907a1.htm).
-
-New therapeutics may take even longer for development. Still, the already approved ones, used for other diseases, may have benefits in controlling the severity of COVID-19, and we could see something in the next 6~12 months. The same goes for different treatments and NPIs.  
-  
-Only after effectively controlling the disease, we can start to think about economic growth. Bill Gates has explained it very well in a [TED interview](https://www.youtube.com/watch?v=Xe8fIjxicoo).
-
->It's very tough to say to people, "Hey, keep going to restaurants," you know, "Go buy new houses, ignore that pile of bodies over in the corner, just, you know, we want you to keep spending" because there's some, maybe a politician who thinks GDP growth is what really counts. [Bill Gates]
-  
+Even though WHO has done a lot for all of us, there's still a lot of room for improvement and transparency.  
 
 
-I want to add a section about the economy in this project, but for now, I don't have enough information to write an educated opinion; many countries haven't published their updated unemployment numbers, or estimates for GDP, etc...  
   
 _____
 # References, resources, and inspirations.  
